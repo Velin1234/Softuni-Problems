@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.exe
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.deps.json
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.runtimeconfig.json
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.dll
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.pdb
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.dll
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.pdb
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.genruntimeconfig.cache

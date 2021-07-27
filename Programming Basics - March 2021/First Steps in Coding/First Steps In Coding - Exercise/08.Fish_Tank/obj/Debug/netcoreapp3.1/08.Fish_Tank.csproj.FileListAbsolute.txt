@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\bin\Debug\netcoreapp3.1\08.Fish_Tank.exe
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\bin\Debug\netcoreapp3.1\08.Fish_Tank.deps.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\bin\Debug\netcoreapp3.1\08.Fish_Tank.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\bin\Debug\netcoreapp3.1\08.Fish_Tank.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\bin\Debug\netcoreapp3.1\08.Fish_Tank.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\bin\Debug\netcoreapp3.1\08.Fish_Tank.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\obj\Debug\netcoreapp3.1\08.Fish_Tank.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\obj\Debug\netcoreapp3.1\08.Fish_Tank.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\obj\Debug\netcoreapp3.1\08.Fish_Tank.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\obj\Debug\netcoreapp3.1\08.Fish_Tank.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\obj\Debug\netcoreapp3.1\08.Fish_Tank.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\obj\Debug\netcoreapp3.1\08.Fish_Tank.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\08.Fish_Tank\obj\Debug\netcoreapp3.1\08.Fish_Tank.genruntimeconfig.cache

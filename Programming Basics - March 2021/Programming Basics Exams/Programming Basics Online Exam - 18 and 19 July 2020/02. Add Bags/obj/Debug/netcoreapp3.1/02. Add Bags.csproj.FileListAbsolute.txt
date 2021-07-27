@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.genruntimeconfig.cache

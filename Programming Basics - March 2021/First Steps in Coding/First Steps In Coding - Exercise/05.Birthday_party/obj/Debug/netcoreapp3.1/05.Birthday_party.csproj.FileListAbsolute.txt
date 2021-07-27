@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\bin\Debug\netcoreapp3.1\05.Birthday_party.exe
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\bin\Debug\netcoreapp3.1\05.Birthday_party.deps.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\bin\Debug\netcoreapp3.1\05.Birthday_party.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\bin\Debug\netcoreapp3.1\05.Birthday_party.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\bin\Debug\netcoreapp3.1\05.Birthday_party.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\bin\Debug\netcoreapp3.1\05.Birthday_party.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\obj\Debug\netcoreapp3.1\05.Birthday_party.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\obj\Debug\netcoreapp3.1\05.Birthday_party.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\obj\Debug\netcoreapp3.1\05.Birthday_party.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\obj\Debug\netcoreapp3.1\05.Birthday_party.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\obj\Debug\netcoreapp3.1\05.Birthday_party.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\05.Birthday_party\obj\Debug\netcoreapp3.1\05.Birthday_party.genruntimeconfig.cache

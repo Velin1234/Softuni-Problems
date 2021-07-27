@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\bin\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.exe
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\bin\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.deps.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\bin\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\bin\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\bin\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.dll
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\bin\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.pdb
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\obj\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\obj\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\obj\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\obj\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\obj\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.dll
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\obj\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.pdb
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\03.Celsius_to_Fahrenheit\obj\Debug\netcoreapp3.1\03.Celsius_to_Fahrenheit.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.exe
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.genruntimeconfig.cache

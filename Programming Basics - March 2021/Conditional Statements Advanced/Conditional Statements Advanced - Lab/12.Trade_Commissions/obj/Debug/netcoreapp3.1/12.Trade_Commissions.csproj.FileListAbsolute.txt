@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\bin\Debug\netcoreapp3.1\12.Trade_Commissions.exe
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\bin\Debug\netcoreapp3.1\12.Trade_Commissions.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\bin\Debug\netcoreapp3.1\12.Trade_Commissions.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\bin\Debug\netcoreapp3.1\12.Trade_Commissions.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\bin\Debug\netcoreapp3.1\12.Trade_Commissions.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\bin\Debug\netcoreapp3.1\12.Trade_Commissions.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\obj\Debug\netcoreapp3.1\12.Trade_Commissions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\obj\Debug\netcoreapp3.1\12.Trade_Commissions.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\obj\Debug\netcoreapp3.1\12.Trade_Commissions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\obj\Debug\netcoreapp3.1\12.Trade_Commissions.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\obj\Debug\netcoreapp3.1\12.Trade_Commissions.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\12.Trade_Commissions\obj\Debug\netcoreapp3.1\12.Trade_Commissions.genruntimeconfig.cache

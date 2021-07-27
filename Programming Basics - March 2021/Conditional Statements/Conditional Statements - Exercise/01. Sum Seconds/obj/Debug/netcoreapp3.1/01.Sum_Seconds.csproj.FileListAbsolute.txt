@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01.Sum_Seconds.exe
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01.Sum_Seconds.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01.Sum_Seconds.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01.Sum_Seconds.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01.Sum_Seconds.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01.Sum_Seconds.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01.Sum_Seconds.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01.Sum_Seconds.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01.Sum_Seconds.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01.Sum_Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01.Sum_Seconds.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01.Sum_Seconds.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01.Sum_Seconds.genruntimeconfig.cache

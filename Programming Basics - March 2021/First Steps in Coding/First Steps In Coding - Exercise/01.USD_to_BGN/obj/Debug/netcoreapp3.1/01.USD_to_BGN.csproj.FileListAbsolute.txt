@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\bin\Debug\netcoreapp3.1\01.USD_to_BGN.exe
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\bin\Debug\netcoreapp3.1\01.USD_to_BGN.deps.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\bin\Debug\netcoreapp3.1\01.USD_to_BGN.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\bin\Debug\netcoreapp3.1\01.USD_to_BGN.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\bin\Debug\netcoreapp3.1\01.USD_to_BGN.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\bin\Debug\netcoreapp3.1\01.USD_to_BGN.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\obj\Debug\netcoreapp3.1\01.USD_to_BGN.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\obj\Debug\netcoreapp3.1\01.USD_to_BGN.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\obj\Debug\netcoreapp3.1\01.USD_to_BGN.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\obj\Debug\netcoreapp3.1\01.USD_to_BGN.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\obj\Debug\netcoreapp3.1\01.USD_to_BGN.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\obj\Debug\netcoreapp3.1\01.USD_to_BGN.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\01.USD_to_BGN\obj\Debug\netcoreapp3.1\01.USD_to_BGN.genruntimeconfig.cache

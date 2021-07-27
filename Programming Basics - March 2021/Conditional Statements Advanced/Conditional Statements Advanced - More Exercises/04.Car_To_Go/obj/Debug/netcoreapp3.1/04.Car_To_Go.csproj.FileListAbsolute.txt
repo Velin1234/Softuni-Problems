@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\bin\Debug\netcoreapp3.1\04.Car_To_Go.exe
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\bin\Debug\netcoreapp3.1\04.Car_To_Go.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\bin\Debug\netcoreapp3.1\04.Car_To_Go.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\bin\Debug\netcoreapp3.1\04.Car_To_Go.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\bin\Debug\netcoreapp3.1\04.Car_To_Go.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\bin\Debug\netcoreapp3.1\04.Car_To_Go.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\obj\Debug\netcoreapp3.1\04.Car_To_Go.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\obj\Debug\netcoreapp3.1\04.Car_To_Go.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\obj\Debug\netcoreapp3.1\04.Car_To_Go.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\obj\Debug\netcoreapp3.1\04.Car_To_Go.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\obj\Debug\netcoreapp3.1\04.Car_To_Go.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\obj\Debug\netcoreapp3.1\04.Car_To_Go.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\04.Car_To_Go\obj\Debug\netcoreapp3.1\04.Car_To_Go.genruntimeconfig.cache

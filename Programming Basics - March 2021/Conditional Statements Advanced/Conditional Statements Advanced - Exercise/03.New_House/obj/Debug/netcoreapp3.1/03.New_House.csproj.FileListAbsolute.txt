@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\bin\Debug\netcoreapp3.1\03.New_House.exe
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\bin\Debug\netcoreapp3.1\03.New_House.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\bin\Debug\netcoreapp3.1\03.New_House.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\bin\Debug\netcoreapp3.1\03.New_House.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\bin\Debug\netcoreapp3.1\03.New_House.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\bin\Debug\netcoreapp3.1\03.New_House.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\obj\Debug\netcoreapp3.1\03.New_House.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\obj\Debug\netcoreapp3.1\03.New_House.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\obj\Debug\netcoreapp3.1\03.New_House.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\obj\Debug\netcoreapp3.1\03.New_House.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\obj\Debug\netcoreapp3.1\03.New_House.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\obj\Debug\netcoreapp3.1\03.New_House.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\03.New_House\obj\Debug\netcoreapp3.1\03.New_House.genruntimeconfig.cache

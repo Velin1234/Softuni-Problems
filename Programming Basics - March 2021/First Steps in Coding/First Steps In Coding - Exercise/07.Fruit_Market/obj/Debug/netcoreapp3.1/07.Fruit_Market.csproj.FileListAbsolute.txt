@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\bin\Debug\netcoreapp3.1\07.Fruit_Market.exe
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\bin\Debug\netcoreapp3.1\07.Fruit_Market.deps.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\bin\Debug\netcoreapp3.1\07.Fruit_Market.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\bin\Debug\netcoreapp3.1\07.Fruit_Market.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\bin\Debug\netcoreapp3.1\07.Fruit_Market.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\bin\Debug\netcoreapp3.1\07.Fruit_Market.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\obj\Debug\netcoreapp3.1\07.Fruit_Market.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\obj\Debug\netcoreapp3.1\07.Fruit_Market.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\obj\Debug\netcoreapp3.1\07.Fruit_Market.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\obj\Debug\netcoreapp3.1\07.Fruit_Market.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\obj\Debug\netcoreapp3.1\07.Fruit_Market.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\07.Fruit_Market\obj\Debug\netcoreapp3.1\07.Fruit_Market.genruntimeconfig.cache

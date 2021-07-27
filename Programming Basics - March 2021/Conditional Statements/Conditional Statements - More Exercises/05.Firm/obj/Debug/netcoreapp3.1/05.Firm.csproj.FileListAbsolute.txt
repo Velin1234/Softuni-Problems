@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.exe
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.genruntimeconfig.cache

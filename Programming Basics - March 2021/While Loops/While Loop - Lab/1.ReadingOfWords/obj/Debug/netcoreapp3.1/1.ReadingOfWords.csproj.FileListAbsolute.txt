@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\bin\Debug\netcoreapp3.1\1.ReadingOfWords.exe
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\bin\Debug\netcoreapp3.1\1.ReadingOfWords.deps.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\bin\Debug\netcoreapp3.1\1.ReadingOfWords.runtimeconfig.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\bin\Debug\netcoreapp3.1\1.ReadingOfWords.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\bin\Debug\netcoreapp3.1\1.ReadingOfWords.dll
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\bin\Debug\netcoreapp3.1\1.ReadingOfWords.pdb
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\obj\Debug\netcoreapp3.1\1.ReadingOfWords.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\obj\Debug\netcoreapp3.1\1.ReadingOfWords.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\obj\Debug\netcoreapp3.1\1.ReadingOfWords.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\obj\Debug\netcoreapp3.1\1.ReadingOfWords.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\obj\Debug\netcoreapp3.1\1.ReadingOfWords.dll
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\obj\Debug\netcoreapp3.1\1.ReadingOfWords.pdb
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\1.ReadingOfWords\obj\Debug\netcoreapp3.1\1.ReadingOfWords.genruntimeconfig.cache

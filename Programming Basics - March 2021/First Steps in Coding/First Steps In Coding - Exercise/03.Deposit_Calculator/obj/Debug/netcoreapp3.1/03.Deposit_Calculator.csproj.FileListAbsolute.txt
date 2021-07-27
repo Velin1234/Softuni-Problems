@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\bin\Debug\netcoreapp3.1\03.Deposit_Calculator.exe
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\bin\Debug\netcoreapp3.1\03.Deposit_Calculator.deps.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\bin\Debug\netcoreapp3.1\03.Deposit_Calculator.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\bin\Debug\netcoreapp3.1\03.Deposit_Calculator.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\bin\Debug\netcoreapp3.1\03.Deposit_Calculator.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\bin\Debug\netcoreapp3.1\03.Deposit_Calculator.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\obj\Debug\netcoreapp3.1\03.Deposit_Calculator.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\obj\Debug\netcoreapp3.1\03.Deposit_Calculator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\obj\Debug\netcoreapp3.1\03.Deposit_Calculator.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\obj\Debug\netcoreapp3.1\03.Deposit_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\obj\Debug\netcoreapp3.1\03.Deposit_Calculator.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\obj\Debug\netcoreapp3.1\03.Deposit_Calculator.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\03.Deposit_Calculator\obj\Debug\netcoreapp3.1\03.Deposit_Calculator.genruntimeconfig.cache

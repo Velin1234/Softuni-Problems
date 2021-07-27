@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\bin\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.exe
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\bin\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\bin\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\bin\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\bin\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\bin\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\obj\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\obj\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\obj\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\obj\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\obj\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\obj\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\08.On_Time_for_the_Exam\obj\Debug\netcoreapp3.1\08.On_Time_for_the_Exam.genruntimeconfig.cache

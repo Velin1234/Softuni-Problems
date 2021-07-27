@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\bin\Debug\netcoreapp3.1\02.Triangle_Area.exe
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\bin\Debug\netcoreapp3.1\02.Triangle_Area.deps.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\bin\Debug\netcoreapp3.1\02.Triangle_Area.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\bin\Debug\netcoreapp3.1\02.Triangle_Area.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\bin\Debug\netcoreapp3.1\02.Triangle_Area.dll
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\bin\Debug\netcoreapp3.1\02.Triangle_Area.pdb
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\obj\Debug\netcoreapp3.1\02.Triangle_Area.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\obj\Debug\netcoreapp3.1\02.Triangle_Area.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\obj\Debug\netcoreapp3.1\02.Triangle_Area.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\obj\Debug\netcoreapp3.1\02.Triangle_Area.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\obj\Debug\netcoreapp3.1\02.Triangle_Area.dll
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\obj\Debug\netcoreapp3.1\02.Triangle_Area.pdb
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\02.Triangle_Area\obj\Debug\netcoreapp3.1\02.Triangle_Area.genruntimeconfig.cache

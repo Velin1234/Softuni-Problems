@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\bin\Debug\netcoreapp3.1\3.SumOfNums.exe
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\bin\Debug\netcoreapp3.1\3.SumOfNums.deps.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\bin\Debug\netcoreapp3.1\3.SumOfNums.runtimeconfig.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\bin\Debug\netcoreapp3.1\3.SumOfNums.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\bin\Debug\netcoreapp3.1\3.SumOfNums.dll
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\bin\Debug\netcoreapp3.1\3.SumOfNums.pdb
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\obj\Debug\netcoreapp3.1\3.SumOfNums.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\obj\Debug\netcoreapp3.1\3.SumOfNums.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\obj\Debug\netcoreapp3.1\3.SumOfNums.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\obj\Debug\netcoreapp3.1\3.SumOfNums.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\obj\Debug\netcoreapp3.1\3.SumOfNums.dll
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\obj\Debug\netcoreapp3.1\3.SumOfNums.pdb
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\3.SumOfNums\obj\Debug\netcoreapp3.1\3.SumOfNums.genruntimeconfig.cache

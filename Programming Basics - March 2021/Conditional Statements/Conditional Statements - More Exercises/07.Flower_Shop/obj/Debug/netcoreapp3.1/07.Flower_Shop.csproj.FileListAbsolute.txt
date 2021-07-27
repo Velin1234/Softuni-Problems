@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\bin\Debug\netcoreapp3.1\07.Flower_Shop.exe
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\bin\Debug\netcoreapp3.1\07.Flower_Shop.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\bin\Debug\netcoreapp3.1\07.Flower_Shop.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\bin\Debug\netcoreapp3.1\07.Flower_Shop.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\bin\Debug\netcoreapp3.1\07.Flower_Shop.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\bin\Debug\netcoreapp3.1\07.Flower_Shop.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\obj\Debug\netcoreapp3.1\07.Flower_Shop.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\obj\Debug\netcoreapp3.1\07.Flower_Shop.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\obj\Debug\netcoreapp3.1\07.Flower_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\obj\Debug\netcoreapp3.1\07.Flower_Shop.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\obj\Debug\netcoreapp3.1\07.Flower_Shop.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\07.Flower_Shop\obj\Debug\netcoreapp3.1\07.Flower_Shop.genruntimeconfig.cache

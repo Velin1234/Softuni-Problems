@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.exe
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.deps.json
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.dll
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.pdb
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.dll
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.pdb
+C:\Users\Lenovo\source\repos\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.genruntimeconfig.cache

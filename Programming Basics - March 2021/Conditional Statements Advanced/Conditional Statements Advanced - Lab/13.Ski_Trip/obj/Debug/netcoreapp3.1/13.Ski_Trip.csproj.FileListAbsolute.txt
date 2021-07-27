@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\bin\Debug\netcoreapp3.1\13.Ski_Trip.exe
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\bin\Debug\netcoreapp3.1\13.Ski_Trip.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\bin\Debug\netcoreapp3.1\13.Ski_Trip.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\bin\Debug\netcoreapp3.1\13.Ski_Trip.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\bin\Debug\netcoreapp3.1\13.Ski_Trip.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\bin\Debug\netcoreapp3.1\13.Ski_Trip.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\obj\Debug\netcoreapp3.1\13.Ski_Trip.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\obj\Debug\netcoreapp3.1\13.Ski_Trip.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\obj\Debug\netcoreapp3.1\13.Ski_Trip.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\obj\Debug\netcoreapp3.1\13.Ski_Trip.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\obj\Debug\netcoreapp3.1\13.Ski_Trip.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\obj\Debug\netcoreapp3.1\13.Ski_Trip.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\13.Ski_Trip\obj\Debug\netcoreapp3.1\13.Ski_Trip.genruntimeconfig.cache

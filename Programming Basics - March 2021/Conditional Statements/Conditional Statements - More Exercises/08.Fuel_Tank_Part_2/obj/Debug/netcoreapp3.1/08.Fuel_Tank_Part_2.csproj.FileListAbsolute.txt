@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\bin\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.exe
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\bin\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\bin\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\bin\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\bin\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\bin\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\obj\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\obj\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\obj\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\obj\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\obj\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\obj\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\08.Fuel_Tank_Part_2\obj\Debug\netcoreapp3.1\08.Fuel_Tank_Part_2.csprojAssemblyReference.cache

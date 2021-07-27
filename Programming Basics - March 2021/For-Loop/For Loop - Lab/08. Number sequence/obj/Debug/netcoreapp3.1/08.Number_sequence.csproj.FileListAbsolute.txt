@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08.Number_sequence.exe
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08.Number_sequence.deps.json
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08.Number_sequence.runtimeconfig.json
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08.Number_sequence.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08.Number_sequence.dll
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08.Number_sequence.pdb
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08.Number_sequence.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08.Number_sequence.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08.Number_sequence.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08.Number_sequence.dll
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08.Number_sequence.pdb
+C:\Users\Lenovo\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08.Number_sequence.genruntimeconfig.cache

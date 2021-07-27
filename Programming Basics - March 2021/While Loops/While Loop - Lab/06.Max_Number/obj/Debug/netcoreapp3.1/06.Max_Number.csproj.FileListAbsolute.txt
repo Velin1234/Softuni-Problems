@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\bin\Debug\netcoreapp3.1\06.Max_Number.exe
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\bin\Debug\netcoreapp3.1\06.Max_Number.deps.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\bin\Debug\netcoreapp3.1\06.Max_Number.runtimeconfig.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\bin\Debug\netcoreapp3.1\06.Max_Number.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\bin\Debug\netcoreapp3.1\06.Max_Number.dll
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\bin\Debug\netcoreapp3.1\06.Max_Number.pdb
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\obj\Debug\netcoreapp3.1\06.Max_Number.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\obj\Debug\netcoreapp3.1\06.Max_Number.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\obj\Debug\netcoreapp3.1\06.Max_Number.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\obj\Debug\netcoreapp3.1\06.Max_Number.dll
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\obj\Debug\netcoreapp3.1\06.Max_Number.pdb
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\06.Max_Number\obj\Debug\netcoreapp3.1\06.Max_Number.genruntimeconfig.cache

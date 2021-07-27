@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\bin\Debug\netcoreapp3.1\01. PC Store.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\01. PC Store\obj\Debug\netcoreapp3.1\01. PC Store.genruntimeconfig.cache

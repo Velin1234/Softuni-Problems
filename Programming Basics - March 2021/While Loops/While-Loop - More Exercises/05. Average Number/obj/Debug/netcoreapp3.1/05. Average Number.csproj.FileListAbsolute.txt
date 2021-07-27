@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.exe
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.deps.json
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.runtimeconfig.json
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.dll
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.pdb
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.dll
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.pdb
+C:\Users\Lenovo\source\repos\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.genruntimeconfig.cache

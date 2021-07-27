@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\obj\Debug\netcoreapp3.1\07.House_Painting.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\obj\Debug\netcoreapp3.1\07.House_Painting.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\obj\Debug\netcoreapp3.1\07.House_Painting.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\obj\Debug\netcoreapp3.1\07.House_Painting.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\bin\Debug\netcoreapp3.1\07.House_Painting.exe
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\bin\Debug\netcoreapp3.1\07.House_Painting.deps.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\bin\Debug\netcoreapp3.1\07.House_Painting.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\bin\Debug\netcoreapp3.1\07.House_Painting.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\bin\Debug\netcoreapp3.1\07.House_Painting.dll
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\bin\Debug\netcoreapp3.1\07.House_Painting.pdb
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\obj\Debug\netcoreapp3.1\07.House_Painting.dll
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\obj\Debug\netcoreapp3.1\07.House_Painting.pdb
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\07.House_Painting\obj\Debug\netcoreapp3.1\07.House_Painting.genruntimeconfig.cache

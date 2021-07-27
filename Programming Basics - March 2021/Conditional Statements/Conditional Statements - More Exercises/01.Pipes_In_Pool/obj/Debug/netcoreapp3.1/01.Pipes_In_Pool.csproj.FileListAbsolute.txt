@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\bin\Debug\netcoreapp3.1\01.Pipes_In_Pool.exe
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\bin\Debug\netcoreapp3.1\01.Pipes_In_Pool.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\bin\Debug\netcoreapp3.1\01.Pipes_In_Pool.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\bin\Debug\netcoreapp3.1\01.Pipes_In_Pool.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\bin\Debug\netcoreapp3.1\01.Pipes_In_Pool.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\bin\Debug\netcoreapp3.1\01.Pipes_In_Pool.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\obj\Debug\netcoreapp3.1\01.Pipes_In_Pool.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\obj\Debug\netcoreapp3.1\01.Pipes_In_Pool.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\obj\Debug\netcoreapp3.1\01.Pipes_In_Pool.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\obj\Debug\netcoreapp3.1\01.Pipes_In_Pool.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\obj\Debug\netcoreapp3.1\01.Pipes_In_Pool.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\obj\Debug\netcoreapp3.1\01.Pipes_In_Pool.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\01.Pipes_In_Pool\obj\Debug\netcoreapp3.1\01.Pipes_In_Pool.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\bin\Debug\netcoreapp3.1\06. Unique PIN Codes.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\bin\Debug\netcoreapp3.1\06. Unique PIN Codes.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\bin\Debug\netcoreapp3.1\06. Unique PIN Codes.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\bin\Debug\netcoreapp3.1\06. Unique PIN Codes.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\bin\Debug\netcoreapp3.1\06. Unique PIN Codes.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\bin\Debug\netcoreapp3.1\06. Unique PIN Codes.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\obj\Debug\netcoreapp3.1\06. Unique PIN Codes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\obj\Debug\netcoreapp3.1\06. Unique PIN Codes.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\obj\Debug\netcoreapp3.1\06. Unique PIN Codes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\obj\Debug\netcoreapp3.1\06. Unique PIN Codes.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\obj\Debug\netcoreapp3.1\06. Unique PIN Codes.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\06. Unique PIN Codes\obj\Debug\netcoreapp3.1\06. Unique PIN Codes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.exe
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\bin\Debug\netcoreapp3.1\10.Invalid_Number.exe
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\bin\Debug\netcoreapp3.1\10.Invalid_Number.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\bin\Debug\netcoreapp3.1\10.Invalid_Number.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\bin\Debug\netcoreapp3.1\10.Invalid_Number.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\bin\Debug\netcoreapp3.1\10.Invalid_Number.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\bin\Debug\netcoreapp3.1\10.Invalid_Number.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\obj\Debug\netcoreapp3.1\10.Invalid_Number.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\obj\Debug\netcoreapp3.1\10.Invalid_Number.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\obj\Debug\netcoreapp3.1\10.Invalid_Number.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\obj\Debug\netcoreapp3.1\10.Invalid_Number.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\obj\Debug\netcoreapp3.1\10.Invalid_Number.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\10.Invalid_Number\obj\Debug\netcoreapp3.1\10.Invalid_Number.genruntimeconfig.cache

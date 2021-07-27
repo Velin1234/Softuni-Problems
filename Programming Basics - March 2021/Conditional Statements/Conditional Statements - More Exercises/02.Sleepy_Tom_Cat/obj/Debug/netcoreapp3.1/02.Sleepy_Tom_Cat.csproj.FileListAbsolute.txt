@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\obj\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\obj\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\obj\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\obj\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\bin\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.exe
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\bin\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\bin\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\bin\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\bin\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\bin\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\obj\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\obj\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\02.Sleepy_Tom_Cat\obj\Debug\netcoreapp3.1\02.Sleepy_Tom_Cat.genruntimeconfig.cache

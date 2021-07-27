@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\bin\Debug\netcoreapp3.1\01.Match_Tickets.exe
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\bin\Debug\netcoreapp3.1\01.Match_Tickets.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\bin\Debug\netcoreapp3.1\01.Match_Tickets.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\bin\Debug\netcoreapp3.1\01.Match_Tickets.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\bin\Debug\netcoreapp3.1\01.Match_Tickets.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\bin\Debug\netcoreapp3.1\01.Match_Tickets.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\obj\Debug\netcoreapp3.1\01.Match_Tickets.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\obj\Debug\netcoreapp3.1\01.Match_Tickets.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\obj\Debug\netcoreapp3.1\01.Match_Tickets.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\obj\Debug\netcoreapp3.1\01.Match_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\obj\Debug\netcoreapp3.1\01.Match_Tickets.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\obj\Debug\netcoreapp3.1\01.Match_Tickets.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\01.Match_Tickets\obj\Debug\netcoreapp3.1\01.Match_Tickets.genruntimeconfig.cache

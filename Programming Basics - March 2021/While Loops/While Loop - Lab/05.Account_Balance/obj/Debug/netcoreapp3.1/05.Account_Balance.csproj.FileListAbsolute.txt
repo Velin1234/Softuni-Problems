@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\obj\Debug\netcoreapp3.1\05.Account_Balance.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\obj\Debug\netcoreapp3.1\05.Account_Balance.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\obj\Debug\netcoreapp3.1\05.Account_Balance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\bin\Debug\netcoreapp3.1\05.Account_Balance.exe
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\bin\Debug\netcoreapp3.1\05.Account_Balance.deps.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\bin\Debug\netcoreapp3.1\05.Account_Balance.runtimeconfig.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\bin\Debug\netcoreapp3.1\05.Account_Balance.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\bin\Debug\netcoreapp3.1\05.Account_Balance.dll
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\bin\Debug\netcoreapp3.1\05.Account_Balance.pdb
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\obj\Debug\netcoreapp3.1\05.Account_Balance.dll
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\obj\Debug\netcoreapp3.1\05.Account_Balance.pdb
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\05.Account_Balance\obj\Debug\netcoreapp3.1\05.Account_Balance.genruntimeconfig.cache

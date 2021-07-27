@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\bin\Debug\netcoreapp3.1\07.Min_Number.exe
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\bin\Debug\netcoreapp3.1\07.Min_Number.deps.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\bin\Debug\netcoreapp3.1\07.Min_Number.runtimeconfig.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\bin\Debug\netcoreapp3.1\07.Min_Number.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\bin\Debug\netcoreapp3.1\07.Min_Number.dll
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\bin\Debug\netcoreapp3.1\07.Min_Number.pdb
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\obj\Debug\netcoreapp3.1\07.Min_Number.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\obj\Debug\netcoreapp3.1\07.Min_Number.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\obj\Debug\netcoreapp3.1\07.Min_Number.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\obj\Debug\netcoreapp3.1\07.Min_Number.dll
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\obj\Debug\netcoreapp3.1\07.Min_Number.pdb
+C:\Users\Lenovo\source\repos\1.ReadingOfWords\07.Min_Number\obj\Debug\netcoreapp3.1\07.Min_Number.genruntimeconfig.cache

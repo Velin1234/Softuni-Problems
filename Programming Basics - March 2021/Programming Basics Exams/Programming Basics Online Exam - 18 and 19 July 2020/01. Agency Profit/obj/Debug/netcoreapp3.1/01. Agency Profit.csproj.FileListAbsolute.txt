@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\netcoreapp3.1\01. Agency Profit.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\netcoreapp3.1\01. Agency Profit.genruntimeconfig.cache

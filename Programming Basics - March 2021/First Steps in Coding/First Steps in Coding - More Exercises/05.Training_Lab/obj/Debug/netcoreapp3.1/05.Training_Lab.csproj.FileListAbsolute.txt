@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\bin\Debug\netcoreapp3.1\05.Training_Lab.exe
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\bin\Debug\netcoreapp3.1\05.Training_Lab.deps.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\bin\Debug\netcoreapp3.1\05.Training_Lab.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\bin\Debug\netcoreapp3.1\05.Training_Lab.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\bin\Debug\netcoreapp3.1\05.Training_Lab.dll
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\bin\Debug\netcoreapp3.1\05.Training_Lab.pdb
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\obj\Debug\netcoreapp3.1\05.Training_Lab.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\obj\Debug\netcoreapp3.1\05.Training_Lab.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\obj\Debug\netcoreapp3.1\05.Training_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\obj\Debug\netcoreapp3.1\05.Training_Lab.dll
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\obj\Debug\netcoreapp3.1\05.Training_Lab.pdb
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\obj\Debug\netcoreapp3.1\05.Training_Lab.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\05.Training_Lab\obj\Debug\netcoreapp3.1\05.Training_Lab.csprojAssemblyReference.cache

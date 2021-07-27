@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\bin\Debug\netcoreapp3.1\04.Vegetable_Market.exe
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\bin\Debug\netcoreapp3.1\04.Vegetable_Market.deps.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\bin\Debug\netcoreapp3.1\04.Vegetable_Market.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\bin\Debug\netcoreapp3.1\04.Vegetable_Market.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\bin\Debug\netcoreapp3.1\04.Vegetable_Market.dll
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\bin\Debug\netcoreapp3.1\04.Vegetable_Market.pdb
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\obj\Debug\netcoreapp3.1\04.Vegetable_Market.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\obj\Debug\netcoreapp3.1\04.Vegetable_Market.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\obj\Debug\netcoreapp3.1\04.Vegetable_Market.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\obj\Debug\netcoreapp3.1\04.Vegetable_Market.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\obj\Debug\netcoreapp3.1\04.Vegetable_Market.dll
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\obj\Debug\netcoreapp3.1\04.Vegetable_Market.pdb
+C:\Users\Lenovo\source\repos\First Steps in Coding - More Exercises\04.Vegetable_Market\obj\Debug\netcoreapp3.1\04.Vegetable_Market.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.genruntimeconfig.cache

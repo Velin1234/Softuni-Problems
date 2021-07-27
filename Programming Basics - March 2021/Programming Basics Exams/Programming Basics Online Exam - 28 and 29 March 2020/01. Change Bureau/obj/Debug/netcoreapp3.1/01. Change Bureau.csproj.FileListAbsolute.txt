@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.genruntimeconfig.cache

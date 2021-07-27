@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.genruntimeconfig.cache

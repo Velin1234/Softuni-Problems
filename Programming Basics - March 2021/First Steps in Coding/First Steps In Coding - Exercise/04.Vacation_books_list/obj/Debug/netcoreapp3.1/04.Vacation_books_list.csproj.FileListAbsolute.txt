@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\bin\Debug\netcoreapp3.1\04.Vacation_books_list.exe
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\bin\Debug\netcoreapp3.1\04.Vacation_books_list.deps.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\bin\Debug\netcoreapp3.1\04.Vacation_books_list.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\bin\Debug\netcoreapp3.1\04.Vacation_books_list.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\bin\Debug\netcoreapp3.1\04.Vacation_books_list.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\bin\Debug\netcoreapp3.1\04.Vacation_books_list.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\obj\Debug\netcoreapp3.1\04.Vacation_books_list.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\obj\Debug\netcoreapp3.1\04.Vacation_books_list.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\obj\Debug\netcoreapp3.1\04.Vacation_books_list.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\obj\Debug\netcoreapp3.1\04.Vacation_books_list.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\obj\Debug\netcoreapp3.1\04.Vacation_books_list.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\obj\Debug\netcoreapp3.1\04.Vacation_books_list.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\04.Vacation_books_list\obj\Debug\netcoreapp3.1\04.Vacation_books_list.genruntimeconfig.cache

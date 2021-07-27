@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.genruntimeconfig.cache

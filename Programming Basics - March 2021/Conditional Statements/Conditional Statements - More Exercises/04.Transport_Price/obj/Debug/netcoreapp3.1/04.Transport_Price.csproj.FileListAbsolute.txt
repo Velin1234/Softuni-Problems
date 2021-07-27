@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\bin\Debug\netcoreapp3.1\04.Transport_Price.exe
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\bin\Debug\netcoreapp3.1\04.Transport_Price.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\bin\Debug\netcoreapp3.1\04.Transport_Price.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\bin\Debug\netcoreapp3.1\04.Transport_Price.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\bin\Debug\netcoreapp3.1\04.Transport_Price.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\bin\Debug\netcoreapp3.1\04.Transport_Price.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\obj\Debug\netcoreapp3.1\04.Transport_Price.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\obj\Debug\netcoreapp3.1\04.Transport_Price.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\obj\Debug\netcoreapp3.1\04.Transport_Price.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\obj\Debug\netcoreapp3.1\04.Transport_Price.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\obj\Debug\netcoreapp3.1\04.Transport_Price.dll
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\obj\Debug\netcoreapp3.1\04.Transport_Price.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements - More Exercises\04.Transport_Price\obj\Debug\netcoreapp3.1\04.Transport_Price.genruntimeconfig.cache

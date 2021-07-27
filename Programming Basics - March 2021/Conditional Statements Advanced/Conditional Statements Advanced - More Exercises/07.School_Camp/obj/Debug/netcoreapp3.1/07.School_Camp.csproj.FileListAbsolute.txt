@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\bin\Debug\netcoreapp3.1\07.School_Camp.exe
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\bin\Debug\netcoreapp3.1\07.School_Camp.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\bin\Debug\netcoreapp3.1\07.School_Camp.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\bin\Debug\netcoreapp3.1\07.School_Camp.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\bin\Debug\netcoreapp3.1\07.School_Camp.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\bin\Debug\netcoreapp3.1\07.School_Camp.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\obj\Debug\netcoreapp3.1\07.School_Camp.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\obj\Debug\netcoreapp3.1\07.School_Camp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\obj\Debug\netcoreapp3.1\07.School_Camp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\obj\Debug\netcoreapp3.1\07.School_Camp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\obj\Debug\netcoreapp3.1\07.School_Camp.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\obj\Debug\netcoreapp3.1\07.School_Camp.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - More Exercises\07.School_Camp\obj\Debug\netcoreapp3.1\07.School_Camp.genruntimeconfig.cache

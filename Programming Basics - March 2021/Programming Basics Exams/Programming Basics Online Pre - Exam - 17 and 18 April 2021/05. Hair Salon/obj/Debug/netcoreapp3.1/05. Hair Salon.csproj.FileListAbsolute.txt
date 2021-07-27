@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.exe
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.deps.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\bin\Debug\netcoreapp3.1\05. Hair Salon.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.dll
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.pdb
+C:\Users\Lenovo\source\repos\Programming Basics Online Pre - Exam - 17 and 18 April 2021\05. Hair Salon\obj\Debug\netcoreapp3.1\05. Hair Salon.genruntimeconfig.cache

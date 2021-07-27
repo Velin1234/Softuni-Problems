@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\bin\Debug\netcoreapp3.1\03.Animal_Type.exe
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\bin\Debug\netcoreapp3.1\03.Animal_Type.deps.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\bin\Debug\netcoreapp3.1\03.Animal_Type.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\bin\Debug\netcoreapp3.1\03.Animal_Type.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\bin\Debug\netcoreapp3.1\03.Animal_Type.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\bin\Debug\netcoreapp3.1\03.Animal_Type.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\obj\Debug\netcoreapp3.1\03.Animal_Type.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\obj\Debug\netcoreapp3.1\03.Animal_Type.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\obj\Debug\netcoreapp3.1\03.Animal_Type.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\obj\Debug\netcoreapp3.1\03.Animal_Type.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\obj\Debug\netcoreapp3.1\03.Animal_Type.dll
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\obj\Debug\netcoreapp3.1\03.Animal_Type.pdb
+C:\Users\Lenovo\source\repos\Conditional Statements Advanced - Lab\03.Animal_Type\obj\Debug\netcoreapp3.1\03.Animal_Type.genruntimeconfig.cache

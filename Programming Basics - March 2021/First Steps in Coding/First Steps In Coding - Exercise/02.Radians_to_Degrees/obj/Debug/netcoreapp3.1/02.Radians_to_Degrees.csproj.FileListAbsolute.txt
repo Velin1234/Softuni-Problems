@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\bin\Debug\netcoreapp3.1\02.Radians_to_Degrees.exe
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\bin\Debug\netcoreapp3.1\02.Radians_to_Degrees.deps.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\bin\Debug\netcoreapp3.1\02.Radians_to_Degrees.runtimeconfig.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\bin\Debug\netcoreapp3.1\02.Radians_to_Degrees.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\bin\Debug\netcoreapp3.1\02.Radians_to_Degrees.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\bin\Debug\netcoreapp3.1\02.Radians_to_Degrees.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\obj\Debug\netcoreapp3.1\02.Radians_to_Degrees.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\obj\Debug\netcoreapp3.1\02.Radians_to_Degrees.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\obj\Debug\netcoreapp3.1\02.Radians_to_Degrees.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\obj\Debug\netcoreapp3.1\02.Radians_to_Degrees.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\obj\Debug\netcoreapp3.1\02.Radians_to_Degrees.dll
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\obj\Debug\netcoreapp3.1\02.Radians_to_Degrees.pdb
+C:\Users\Lenovo\source\repos\First Steps In Coding - Exercise\02.Radians_to_Degrees\obj\Debug\netcoreapp3.1\02.Radians_to_Degrees.genruntimeconfig.cache
