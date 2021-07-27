@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.exe
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.deps.json
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\net5.0\ref\03. Gaming Store.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.pdb
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\net5.0\ref\03. Gaming Store.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.pdb
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.genruntimeconfig.cache

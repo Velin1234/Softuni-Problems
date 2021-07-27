@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\Arrays - Exercise\10. LadyBugs\obj\Debug\net5.0\10. LadyBugs.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Arrays - Exercise\10. LadyBugs\obj\Debug\net5.0\10. LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Arrays - Exercise\10. LadyBugs\obj\Debug\net5.0\10. LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Arrays - Exercise\10. LadyBugs\obj\Debug\net5.0\10. LadyBugs.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Arrays - Exercise\10. LadyBugs\obj\Debug\net5.0\10. LadyBugs.csproj.CoreCompileInputs.cache

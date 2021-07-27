@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.exe
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.deps.json
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.dll
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\ref\02. Center Point.dll
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.pdb
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.dll
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\ref\02. Center Point.dll
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.pdb
+C:\Users\Lenovo\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.genruntimeconfig.cache

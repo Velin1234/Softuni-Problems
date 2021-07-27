@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\bin\Debug\net5.0\2. Bit at Position 1.exe
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\bin\Debug\net5.0\2. Bit at Position 1.deps.json
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\bin\Debug\net5.0\2. Bit at Position 1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\bin\Debug\net5.0\2. Bit at Position 1.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\bin\Debug\net5.0\2. Bit at Position 1.dll
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\bin\Debug\net5.0\ref\2. Bit at Position 1.dll
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\bin\Debug\net5.0\2. Bit at Position 1.pdb
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\obj\Debug\net5.0\2. Bit at Position 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\obj\Debug\net5.0\2. Bit at Position 1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\obj\Debug\net5.0\2. Bit at Position 1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\obj\Debug\net5.0\2. Bit at Position 1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\obj\Debug\net5.0\2. Bit at Position 1.dll
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\obj\Debug\net5.0\ref\2. Bit at Position 1.dll
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\obj\Debug\net5.0\2. Bit at Position 1.pdb
+C:\Users\Lenovo\source\repos\Bitwise Operations\2. Bit at Position 1\obj\Debug\net5.0\2. Bit at Position 1.genruntimeconfig.cache

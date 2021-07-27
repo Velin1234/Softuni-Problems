@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\bin\Debug\net5.0\1. Binary Digits Count.exe
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\bin\Debug\net5.0\1. Binary Digits Count.deps.json
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\bin\Debug\net5.0\1. Binary Digits Count.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\bin\Debug\net5.0\1. Binary Digits Count.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\bin\Debug\net5.0\1. Binary Digits Count.dll
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\bin\Debug\net5.0\ref\1. Binary Digits Count.dll
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\bin\Debug\net5.0\1. Binary Digits Count.pdb
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\obj\Debug\net5.0\1. Binary Digits Count.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\obj\Debug\net5.0\1. Binary Digits Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\obj\Debug\net5.0\1. Binary Digits Count.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\obj\Debug\net5.0\1. Binary Digits Count.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\obj\Debug\net5.0\1. Binary Digits Count.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\obj\Debug\net5.0\1. Binary Digits Count.dll
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\obj\Debug\net5.0\ref\1. Binary Digits Count.dll
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\obj\Debug\net5.0\1. Binary Digits Count.pdb
+C:\Users\Lenovo\source\repos\Bitwise Operations\1. Binary Digits Count\obj\Debug\net5.0\1. Binary Digits Count.genruntimeconfig.cache

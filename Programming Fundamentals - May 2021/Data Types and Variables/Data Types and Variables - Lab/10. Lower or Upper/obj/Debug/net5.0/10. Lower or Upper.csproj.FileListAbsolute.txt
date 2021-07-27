@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.exe
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.deps.json
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.dll
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\ref\10. Lower or Upper.dll
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.pdb
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.dll
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\ref\10. Lower or Upper.dll
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.pdb
+C:\Users\Lenovo\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.genruntimeconfig.cache

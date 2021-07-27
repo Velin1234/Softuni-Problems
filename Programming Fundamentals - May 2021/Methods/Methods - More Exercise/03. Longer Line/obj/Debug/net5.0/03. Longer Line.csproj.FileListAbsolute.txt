@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.exe
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.deps.json
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.dll
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\net5.0\ref\03. Longer Line.dll
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.pdb
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.dll
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\net5.0\ref\03. Longer Line.dll
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.pdb
+C:\Users\Lenovo\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.genruntimeconfig.cache

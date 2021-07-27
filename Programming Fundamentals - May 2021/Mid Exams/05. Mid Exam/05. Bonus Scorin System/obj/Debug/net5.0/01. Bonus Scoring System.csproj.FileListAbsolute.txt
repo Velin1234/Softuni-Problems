@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\bin\Debug\net5.0\01. Bonus Scoring System.exe
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\bin\Debug\net5.0\01. Bonus Scoring System.deps.json
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\bin\Debug\net5.0\01. Bonus Scoring System.runtimeconfig.json
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\bin\Debug\net5.0\01. Bonus Scoring System.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\bin\Debug\net5.0\01. Bonus Scoring System.dll
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\bin\Debug\net5.0\ref\01. Bonus Scoring System.dll
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\bin\Debug\net5.0\01. Bonus Scoring System.pdb
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\obj\Debug\net5.0\01. Bonus Scoring System.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\obj\Debug\net5.0\01. Bonus Scoring System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\obj\Debug\net5.0\01. Bonus Scoring System.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\obj\Debug\net5.0\01. Bonus Scoring System.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\obj\Debug\net5.0\01. Bonus Scoring System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\obj\Debug\net5.0\01. Bonus Scoring System.dll
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\obj\Debug\net5.0\ref\01. Bonus Scoring System.dll
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\obj\Debug\net5.0\01. Bonus Scoring System.pdb
+C:\Users\Lenovo\source\repos\05. Programming Fundamentals Mid Exam\05. Programming Fundamentals Mid Exam\obj\Debug\net5.0\01. Bonus Scoring System.genruntimeconfig.cache

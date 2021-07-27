@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Binary Digits Count", "1. Binary Digits Count\1. Binary Digits Count.csproj", "{DB162169-3EC3-4182-A751-E7CD8BA60B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Bit at Position 1", "2. Bit at Position 1\2. Bit at Position 1.csproj", "{1CAC4815-76E9-4F56-8F10-67AC97133FF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB162169-3EC3-4182-A751-E7CD8BA60B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB162169-3EC3-4182-A751-E7CD8BA60B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB162169-3EC3-4182-A751-E7CD8BA60B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB162169-3EC3-4182-A751-E7CD8BA60B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAC4815-76E9-4F56-8F10-67AC97133FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAC4815-76E9-4F56-8F10-67AC97133FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAC4815-76E9-4F56-8F10-67AC97133FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAC4815-76E9-4F56-8F10-67AC97133FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E79B978B-DBA4-4746-8E72-E2774433C254}
+	EndGlobalSection
+EndGlobal

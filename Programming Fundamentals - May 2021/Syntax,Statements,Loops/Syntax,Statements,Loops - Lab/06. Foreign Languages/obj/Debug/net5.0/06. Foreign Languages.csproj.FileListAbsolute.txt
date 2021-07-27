@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.exe
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.deps.json
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\ref\06. Foreign Languages.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.pdb
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\ref\06. Foreign Languages.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.pdb
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.exe
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.deps.json
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\ref\06. Strong number.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.pdb
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\ref\06. Strong number.dll
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.pdb
+C:\Users\Lenovo\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.genruntimeconfig.cache

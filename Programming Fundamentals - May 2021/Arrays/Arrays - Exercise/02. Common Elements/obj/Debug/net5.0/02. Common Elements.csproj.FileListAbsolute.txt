@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.exe
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.deps.json
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.dll
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\ref\02. Common Elements.dll
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.pdb
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.dll
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\ref\02. Common Elements.dll
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.pdb
+C:\Users\Lenovo\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.genruntimeconfig.cache

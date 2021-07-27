@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.exe
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.deps.json
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.dll
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\ref\02. Gauss' Trick.dll
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.pdb
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.dll
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\ref\02. Gauss' Trick.dll
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.pdb
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.csproj.AssemblyReference.cache

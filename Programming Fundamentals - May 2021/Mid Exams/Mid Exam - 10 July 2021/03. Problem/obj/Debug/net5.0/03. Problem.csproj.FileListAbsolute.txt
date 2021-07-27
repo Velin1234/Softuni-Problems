@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\bin\Debug\net5.0\03. Problem.exe
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\bin\Debug\net5.0\03. Problem.deps.json
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\bin\Debug\net5.0\03. Problem.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\bin\Debug\net5.0\03. Problem.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\bin\Debug\net5.0\03. Problem.dll
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\bin\Debug\net5.0\ref\03. Problem.dll
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\bin\Debug\net5.0\03. Problem.pdb
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\obj\Debug\net5.0\03. Problem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\obj\Debug\net5.0\03. Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\obj\Debug\net5.0\03. Problem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\obj\Debug\net5.0\03. Problem.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\obj\Debug\net5.0\03. Problem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\obj\Debug\net5.0\03. Problem.dll
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\obj\Debug\net5.0\ref\03. Problem.dll
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\obj\Debug\net5.0\03. Problem.pdb
+C:\Users\Lenovo\source\repos\Programming Fundamentals Mid Exam - 10 July 2021\03. Problem\obj\Debug\net5.0\03. Problem.genruntimeconfig.cache
