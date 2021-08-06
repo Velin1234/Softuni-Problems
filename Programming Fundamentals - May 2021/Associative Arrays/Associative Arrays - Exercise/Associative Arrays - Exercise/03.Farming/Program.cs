@@ -2,83 +2,101 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _03.Farming
+namespace _03._Legendary_Farming
 {
     class Program
     {
         static void Main(string[] args)
         {
-            List<string> materials = Console.ReadLine().Split(" ").ToList();
-            Dictionary<string, int> leftMaterials = new Dictionary<string, int>();
-            bool flag = false;
+            List<string> quantityAndMaterials = new List<string>();
+
+            var keyMaterials = new Dictionary<string, int>();
+            keyMaterials.Add("fragments", 0);
+            keyMaterials.Add("motes", 0);
+            keyMaterials.Add("shards", 0);
+
+            var junk = new Dictionary<string, int>();
+
+            bool checker = false;
+
             while (true)
             {
-                for (int i = 1; i < materials.Count; i += 2)
+                if (checker == true) break;
+                quantityAndMaterials = Console.ReadLine().Split(' ').ToList();
+                for (int i = 0; i < quantityAndMaterials.Count; i += 2)
                 {
-                    if (leftMaterials.ContainsKey("fragments") && leftMaterials["fragments"] >= 250)
-                    {
-                        leftMaterials["fragments"] -= 250;
-                        Console.WriteLine("Valanyr obtained!");
-                        flag = true;
-                        break;
-                    }
-                    if (leftMaterials.ContainsKey("shards") && leftMaterials["shards"] >= 250)
-                    {
-                        leftMaterials["shards"] -= 250;
-                        Console.WriteLine("Shadowmourne obtained!");
-                        flag = true;
-                        break;
-                    }
-                    if (leftMaterials.ContainsKey("motes") && leftMaterials["motes"] >= 250)
-                    {
-                        leftMaterials["motes"] -= 250;
-                        Console.WriteLine("Dragonwrath obtained!");
-                        flag = true;
-                        break;
-                    }
+                    string tokenOne = quantityAndMaterials[i]; // number (value)
+                    string tokenTwo = quantityAndMaterials[i + 1].ToLower(); // material (key)
 
-                    if (leftMaterials.ContainsKey(materials[i].ToLower()))
+                    if (!keyMaterials.ContainsKey(tokenTwo))
                     {
-                        leftMaterials[materials[i].ToLower()] += Convert.ToInt32(materials[i - 1]);
+                        junk.Add(tokenTwo, 0);
+                        junk[tokenTwo] += int.Parse(tokenOne);
                     }
                     else
                     {
-                        leftMaterials.Add(materials[i].ToLower(), Convert.ToInt32(materials[i - 1]));
-                    } 
+                        keyMaterials[tokenTwo] += int.Parse(tokenOne);
+                    }
+
+                    if (keyMaterials["shards"] >= 250)
+                    {
+                        Console.WriteLine("Shadowmourne obtained!");
+                        keyMaterials["shardes"] -= 250;
+                        foreach (var kvp in keyMaterials)
+                        {
+                            string material = kvp.Key;
+                            int count = kvp.Value;
+                            Console.WriteLine($"{material}: {count}");
+                        }
+                        foreach (var kvp in junk)
+                        {
+                            string material = kvp.Key;
+                            int count = kvp.Value;
+                            Console.WriteLine($"{material}: {count}");
+                        }
+                        checker = true;
+                        break;
+                    }
+                    else if (keyMaterials["fragments"] >= 250)
+                    {
+                        Console.WriteLine("Valanyr obtained!");
+                        keyMaterials["fragments"] -= 250;
+                        foreach (var kvp in keyMaterials)
+                        {
+                            string material = kvp.Key;
+                            int count = kvp.Value;
+                            Console.WriteLine($"{material}: {count}");
+                        }
+                        foreach (var kvp in junk)
+                        {
+                            string material = kvp.Key;
+                            int count = kvp.Value;
+                            Console.WriteLine($"{material}: {count}");
+                        }
+                        checker = true;
+                        break;
+                    }
+                    else if (keyMaterials["motes"] >= 250)
+                    {
+                        Console.WriteLine("Dragonwrath obtained!");
+                        keyMaterials["motes"] -= 250;
+                        foreach (var kvp in keyMaterials)
+                        {
+                            string material = kvp.Key;
+                            int count = kvp.Value;
+                            Console.WriteLine($"{material}: {count}");
+                        }
+                        foreach (var kvp in junk)
+                        {
+                            string material = kvp.Key;
+                            int count = kvp.Value;
+                            Console.WriteLine($"{material}: {count}");
+                        }
+                        checker = true;
+                        break;
+                    }
+
                 }
-                if (flag)
-                {
-                    break;
-                }
-                materials = Console.ReadLine().Split(" ").ToList();
-            }
-
-            Dictionary<string, int> mainMaterials = new Dictionary<string, int>();
-                mainMaterials.Add("fragments", 0);
-
-            if (leftMaterials.ContainsKey("fragments"))
-            {
-                mainMaterials["fragments"] = leftMaterials["fragments"];
-                leftMaterials.Remove("fragments");
-            }
-            if (leftMaterials.ContainsKey("shards"))
-            {
-                mainMaterials["shards"] = leftMaterials["shards"];
-                leftMaterials.Remove("shards");
-            }
-            if (leftMaterials.ContainsKey("motes"))
-            {
-                mainMaterials["motes"] = leftMaterials["motes"];
-                leftMaterials.Remove("motes");
-            }
-
-            foreach (var main in mainMaterials.OrderByDescending(m => m.Value).ThenBy(m => m.Key))
-            {
-                Console.WriteLine($"{main.Key}: {main.Value}");
-            }
-            foreach (var item in leftMaterials.OrderBy(m => m.Key))
-            {
-                Console.WriteLine($"{item.Key}: {item.Value}");
             }
         }
     }
