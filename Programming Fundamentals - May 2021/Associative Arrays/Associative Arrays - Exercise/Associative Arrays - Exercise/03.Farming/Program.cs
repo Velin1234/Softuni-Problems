@@ -54,19 +54,21 @@ namespace _03.Farming
             }
 
             Dictionary<string, int> mainMaterials = new Dictionary<string, int>();
+                mainMaterials.Add("fragments", 0);
+
             if (leftMaterials.ContainsKey("fragments"))
             {
-                mainMaterials.Add("fragments", leftMaterials["fragments"]);
+                mainMaterials["fragments"] = leftMaterials["fragments"];
                 leftMaterials.Remove("fragments");
             }
             if (leftMaterials.ContainsKey("shards"))
             {
-                mainMaterials.Add("shards", leftMaterials["shards"]);
+                mainMaterials["shards"] = leftMaterials["shards"];
                 leftMaterials.Remove("shards");
             }
             if (leftMaterials.ContainsKey("motes"))
             {
-                mainMaterials.Add("motes", leftMaterials["motes"]);
+                mainMaterials["motes"] = leftMaterials["motes"];
                 leftMaterials.Remove("motes");
             }
 
