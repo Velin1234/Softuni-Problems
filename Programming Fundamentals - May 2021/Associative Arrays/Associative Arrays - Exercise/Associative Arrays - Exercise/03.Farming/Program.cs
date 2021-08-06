@@ -10,35 +10,47 @@ namespace _03.Farming
         {
             List<string> materials = Console.ReadLine().Split(" ").ToList();
             Dictionary<string, int> leftMaterials = new Dictionary<string, int>();
-            for (int i = 1; i < materials.Count; i+=2)
+            bool flag = false;
+            while (true)
             {
-                if (leftMaterials.ContainsKey(materials[i].ToLower()))
+                for (int i = 1; i < materials.Count; i += 2)
                 {
-                    leftMaterials[materials[i].ToLower()] += Convert.ToInt32(materials[i - 1]);
-                }
-                else
-                {
-                    leftMaterials.Add(materials[i].ToLower(), Convert.ToInt32(materials[i - 1]));
-                }
+                    if (leftMaterials.ContainsKey("fragments") && leftMaterials["fragments"] >= 250)
+                    {
+                        leftMaterials["fragments"] -= 250;
+                        Console.WriteLine("Valanyr obtained!");
+                        flag = true;
+                        break;
+                    }
+                    if (leftMaterials.ContainsKey("shards") && leftMaterials["shards"] >= 250)
+                    {
+                        leftMaterials["shards"] -= 250;
+                        Console.WriteLine("Shadowmourne obtained!");
+                        flag = true;
+                        break;
+                    }
+                    if (leftMaterials.ContainsKey("motes") && leftMaterials["motes"] >= 250)
+                    {
+                        leftMaterials["motes"] -= 250;
+                        Console.WriteLine("Dragonwrath obtained!");
+                        flag = true;
+                        break;
+                    }
 
-                if (leftMaterials.ContainsKey("fragments") && leftMaterials["fragments"] >= 250)
+                    if (leftMaterials.ContainsKey(materials[i].ToLower()))
+                    {
+                        leftMaterials[materials[i].ToLower()] += Convert.ToInt32(materials[i - 1]);
+                    }
+                    else
+                    {
+                        leftMaterials.Add(materials[i].ToLower(), Convert.ToInt32(materials[i - 1]));
+                    } 
+                }
+                if (flag)
                 {
-                    leftMaterials["fragments"] -= 250;
-                    Console.WriteLine("Valanyr obtained!");
                     break;
                 }
-                if (leftMaterials.ContainsKey("shards") && leftMaterials["shards"] >= 250)
-                {
-                    leftMaterials["shards"] -= 250;
-                    Console.WriteLine("Shadowmourne obtained!");
-                    break;
-                }
-                if (leftMaterials.ContainsKey("motes") && leftMaterials["motes"] >= 250)
-                {
-                    leftMaterials["motes"] -= 250;
-                    Console.WriteLine("Dragonwrath obtained!");
-                    break;
-                }
+                materials = Console.ReadLine().Split(" ").ToList();
             }
 
             Dictionary<string, int> mainMaterials = new Dictionary<string, int>();
