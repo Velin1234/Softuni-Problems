@@ -12,7 +12,14 @@ namespace _02._Miner
             while (ore != "stop")
             {
                 int quanity = int.Parse(Console.ReadLine());
-                ores.Add(ore, quanity);
+                if (ores.ContainsKey(ore))
+                {
+                    ores[ore] += quanity;
+                }
+                else
+                {
+                    ores.Add(ore, quanity);
+                }
                 ore = Console.ReadLine();
             }
 
