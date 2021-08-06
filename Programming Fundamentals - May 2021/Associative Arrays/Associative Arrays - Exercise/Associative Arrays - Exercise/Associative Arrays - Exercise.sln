@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Chars in String", "01.Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Miner", "02. Miner\02. Miner.csproj", "{5E7FB822-AF87-4026-9901-67CE4DB6AF4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Farming", "03.Farming\03.Farming.csproj", "{6B32E660-CC70-42BC-A3CB-331A90171C82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5E7FB822-AF87-4026-9901-67CE4DB6AF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E7FB822-AF87-4026-9901-67CE4DB6AF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E7FB822-AF87-4026-9901-67CE4DB6AF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B32E660-CC70-42BC-A3CB-331A90171C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B32E660-CC70-42BC-A3CB-331A90171C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B32E660-CC70-42BC-A3CB-331A90171C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B32E660-CC70-42BC-A3CB-331A90171C82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
