@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\Associative Arrays - Lab\\02. Odd Occurrences\\02. Odd Occurrences.csproj": {}
+    "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Associative Arrays\\Associative Arrays - Lab\\02. Odd Occurrences\\02. Odd Occurrences.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\Associative Arrays - Lab\\02. Odd Occurrences\\02. Odd Occurrences.csproj": {
+    "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Associative Arrays\\Associative Arrays - Lab\\02. Odd Occurrences\\02. Odd Occurrences.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Associative Arrays - Lab\\02. Odd Occurrences\\02. Odd Occurrences.csproj",
+        "projectUniqueName": "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Associative Arrays\\Associative Arrays - Lab\\02. Odd Occurrences\\02. Odd Occurrences.csproj",
         "projectName": "02. Odd Occurrences",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Associative Arrays - Lab\\02. Odd Occurrences\\02. Odd Occurrences.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Associative Arrays - Lab\\02. Odd Occurrences\\obj\\",
+        "projectPath": "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Associative Arrays\\Associative Arrays - Lab\\02. Odd Occurrences\\02. Odd Occurrences.csproj",
+        "packagesPath": "C:\\Users\\venit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Associative Arrays\\Associative Arrays - Lab\\02. Odd Occurrences\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\venit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

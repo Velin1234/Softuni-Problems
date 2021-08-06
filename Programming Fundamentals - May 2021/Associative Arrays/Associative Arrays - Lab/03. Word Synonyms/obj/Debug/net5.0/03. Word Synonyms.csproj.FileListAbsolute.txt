@@ -1,0 +1,16 @@
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.exe
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.deps.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.runtimeconfig.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.runtimeconfig.dev.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\ref\03. Word Synonyms.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.csproj.AssemblyReference.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.AssemblyInfo.cs
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\ref\03. Word Synonyms.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.genruntimeconfig.cache

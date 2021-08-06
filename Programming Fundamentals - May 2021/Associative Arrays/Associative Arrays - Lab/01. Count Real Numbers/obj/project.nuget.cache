@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vr85bnLY9Or0joFIEJCToBKLivdDD7Ki8maDXWdUPjBISb25QxkJM/0VT8Mp4puyMaecm0i5JErZFzAv//Ifhw==",
+  "dgSpecHash": "hPRYzYlWnnFPGxbdQGKFk+YdIEPfUqdq1ZYDyL0exq3CxalTao4GB7LLomE3RrKcLRYkGQpA7jQ3SUAwS0P/Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Associative Arrays - Lab\\01. Count Real Numbers\\01. Count Real Numbers.csproj",
+  "projectFilePath": "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Associative Arrays\\Associative Arrays - Lab\\01. Count Real Numbers\\01. Count Real Numbers.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
