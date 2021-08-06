@@ -1,0 +1,16 @@
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\bin\Debug\net5.0\05. Word Filter.exe
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\bin\Debug\net5.0\05. Word Filter.deps.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\bin\Debug\net5.0\05. Word Filter.runtimeconfig.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\bin\Debug\net5.0\05. Word Filter.runtimeconfig.dev.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\bin\Debug\net5.0\05. Word Filter.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\bin\Debug\net5.0\ref\05. Word Filter.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\bin\Debug\net5.0\05. Word Filter.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\obj\Debug\net5.0\05. Word Filter.csproj.AssemblyReference.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\obj\Debug\net5.0\05. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\obj\Debug\net5.0\05. Word Filter.AssemblyInfoInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\obj\Debug\net5.0\05. Word Filter.AssemblyInfo.cs
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\obj\Debug\net5.0\05. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\obj\Debug\net5.0\05. Word Filter.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\obj\Debug\net5.0\ref\05. Word Filter.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\obj\Debug\net5.0\05. Word Filter.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Associative Arrays\Associative Arrays - Lab\05. Word Filter\obj\Debug\net5.0\05. Word Filter.genruntimeconfig.cache
