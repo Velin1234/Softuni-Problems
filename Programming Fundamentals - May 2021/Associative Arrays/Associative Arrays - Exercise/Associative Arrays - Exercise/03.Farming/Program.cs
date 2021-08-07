@@ -50,7 +50,7 @@ namespace _03._Legendary_Farming
 
                     if (mainMaterials["fragments"] >= 250)
                     {
-                        Console.WriteLine("Shadowmourne obtained");
+                        Console.WriteLine("Valanyr obtained");
                         mainMaterials["fragments"] -= 250;
                         flag = false;
                         break;
@@ -64,7 +64,7 @@ namespace _03._Legendary_Farming
                     }
                     else if (mainMaterials["motes"] >= 250)
                     {
-                        Console.WriteLine("Shadowmourne obtained");
+                        Console.WriteLine("Dragonwrath obtained");
                         mainMaterials["motes"] -= 250;
                         flag = false;
                         break;
