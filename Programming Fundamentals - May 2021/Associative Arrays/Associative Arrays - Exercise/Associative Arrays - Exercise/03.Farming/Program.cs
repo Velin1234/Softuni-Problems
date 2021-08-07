@@ -8,96 +8,84 @@ namespace _03._Legendary_Farming
     {
         static void Main(string[] args)
         {
-            List<string> quantityAndMaterials = new List<string>();
+            Dictionary<string, int> mainMaterials = new Dictionary<string, int>();
+            mainMaterials.Add("shards",0);
+            mainMaterials.Add("fragments",0);
+            mainMaterials.Add("motes",0);
 
-            var keyMaterials = new Dictionary<string, int>();
-            keyMaterials.Add("fragments", 0);
-            keyMaterials.Add("motes", 0);
-            keyMaterials.Add("shards", 0);
-
-            var junk = new Dictionary<string, int>();
-
-            bool checker = false;
+            Dictionary<string, int> junks = new Dictionary<string, int>();
+            List<string> materials = Console.ReadLine().Split(" ").ToList();
+            bool flag = true;
 
             while (true)
             {
-                if (checker == true) break;
-                quantityAndMaterials = Console.ReadLine().Split(' ').ToList();
-                for (int i = 0; i < quantityAndMaterials.Count; i += 2)
+                for (int m = 1; m <= materials.Count; m+=2)
                 {
-                    string tokenOne = quantityAndMaterials[i]; // number (value)
-                    string tokenTwo = quantityAndMaterials[i + 1].ToLower(); // material (key)
-
-                    if (!keyMaterials.ContainsKey(tokenTwo))
+                    int quanity = Convert.ToInt32(materials[m-1]);
+                    string material = materials[m].ToLower();
+                    
+                    if (material == "shards")
                     {
-                        junk.Add(tokenTwo, 0);
-                        junk[tokenTwo] += int.Parse(tokenOne);
+                        mainMaterials["shards"] += quanity;
+                    }
+                    else if (material == "fragments")
+                    {
+                        mainMaterials["fragments"] += quanity;
+                    }
+                    else if (material == "motes")
+                    {
+                        mainMaterials["motes"] += quanity;
                     }
                     else
                     {
-                        keyMaterials[tokenTwo] += int.Parse(tokenOne);
+                        if (junks.ContainsKey(material))
+                        {
+                            junks[material] += quanity;
+                        }
+                        else
+                        {
+                            junks.Add(material,quanity);
+                        }
                     }
 
-                    if (keyMaterials["shards"] >= 250)
+                    if (mainMaterials["fragments"] >= 250)
                     {
-                        Console.WriteLine("Shadowmourne obtained!");
-                        keyMaterials["shardes"] -= 250;
-                        foreach (var kvp in keyMaterials)
-                        {
-                            string material = kvp.Key;
-                            int count = kvp.Value;
-                            Console.WriteLine($"{material}: {count}");
-                        }
-                        foreach (var kvp in junk)
-                        {
-                            string material = kvp.Key;
-                            int count = kvp.Value;
-                            Console.WriteLine($"{material}: {count}");
-                        }
-                        checker = true;
+                        Console.WriteLine("Shadowmourne obtained");
+                        mainMaterials["fragments"] -= 250;
+                        flag = false;
                         break;
                     }
-                    else if (keyMaterials["fragments"] >= 250)
+                    else if (mainMaterials["shards"] >= 250)
                     {
-                        Console.WriteLine("Valanyr obtained!");
-                        keyMaterials["fragments"] -= 250;
-                        foreach (var kvp in keyMaterials)
-                        {
-                            string material = kvp.Key;
-                            int count = kvp.Value;
-                            Console.WriteLine($"{material}: {count}");
-                        }
-                        foreach (var kvp in junk)
-                        {
-                            string material = kvp.Key;
-                            int count = kvp.Value;
-                            Console.WriteLine($"{material}: {count}");
-                        }
-                        checker = true;
+                        Console.WriteLine("Shadowmourne obtained");
+                        mainMaterials["shards"] -= 250;
+                        flag = false;
                         break;
                     }
-                    else if (keyMaterials["motes"] >= 250)
+                    else if (mainMaterials["motes"] >= 250)
                     {
-                        Console.WriteLine("Dragonwrath obtained!");
-                        keyMaterials["motes"] -= 250;
-                        foreach (var kvp in keyMaterials)
-                        {
-                            string material = kvp.Key;
-                            int count = kvp.Value;
-                            Console.WriteLine($"{material}: {count}");
-                        }
-                        foreach (var kvp in junk)
-                        {
-                            string material = kvp.Key;
-                            int count = kvp.Value;
-                            Console.WriteLine($"{material}: {count}");
-                        }
-                        checker = true;
+                        Console.WriteLine("Shadowmourne obtained");
+                        mainMaterials["motes"] -= 250;
+                        flag = false;
                         break;
                     }
-
                 }
+                if (!flag)
+                {
+                    break;
+                }
+                materials = Console.ReadLine().Split(" ").ToList();
             }
+
+            foreach (var mainM in mainMaterials.OrderByDescending(m => m.Value).ThenBy(m => m.Key))
+            {
+                Console.WriteLine($"{mainM.Key}: {mainM.Value}");
+            }
+            foreach (var junk in junks.OrderBy(j => j.Key))
+            {
+                Console.WriteLine($"{junk.Key}: {junk.Value}");
+            }
+
         }
     }
 }
