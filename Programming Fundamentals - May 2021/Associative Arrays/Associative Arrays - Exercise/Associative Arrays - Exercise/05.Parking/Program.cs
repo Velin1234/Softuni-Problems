@@ -20,19 +20,19 @@ namespace _05.Parking
                 {
                     case "register":
                         string licensePateNum = accountInfo[2];
-                        if (accounts.ContainsValue(licensePateNum))
+                        if (accounts.ContainsKey(licensePateNum))
                         {
                             Console.WriteLine($"ERROR: already registered with plate number {licensePateNum}");
                         }
                         else
                         {
-                            accounts.Add(name, licensePateNum);
+                            accounts.Add(licensePateNum,name);
                             Console.WriteLine($"{name} registered {licensePateNum} successfully");
                         }
                         break;
 
                     case "unregister":
-                        if (accounts.ContainsKey(name))
+                        if (accounts.ContainsValue(name))
                         {
                             accounts.Remove(name);
                             Console.WriteLine($"{name} unregistered successfully");
@@ -47,7 +47,7 @@ namespace _05.Parking
 
             foreach (var acc in accounts)
             {
-                Console.WriteLine($"{acc.Key} => {acc.Value}");
+                Console.WriteLine($"{acc.Value} => {acc.Key}");
             }
         }
     }
