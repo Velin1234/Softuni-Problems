@@ -28,7 +28,7 @@ namespace _06.Courses
             foreach (var subject in subjectsInfo.OrderByDescending(s => s.Value.Count))
             {
                 Console.WriteLine($"{subject.Key}: {subject.Value.Count}");
-                Console.WriteLine($"-- {string.Join("\n-- ",subject.Value)}");
+                Console.WriteLine($"-- {string.Join("\n-- ", subject.Value.OrderBy(n => n))}");
             }
         }
     }
