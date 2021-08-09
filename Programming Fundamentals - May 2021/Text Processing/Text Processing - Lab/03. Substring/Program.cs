@@ -7,15 +7,15 @@ namespace _03._Substring
         static void Main(string[] args)
         {
             string word = Console.ReadLine();
-            string secondWord = Console.ReadLine();
+            string text = Console.ReadLine();
             
-            int indexOfWord = secondWord.IndexOf(word);
+            int indexOfWord = text.IndexOf(word);
             while (indexOfWord >= 0)
             {
-                secondWord.Remove(indexOfWord, word.Length);
-                indexOfWord = secondWord.IndexOf(word);
+                text = text.Remove(indexOfWord, word.Length);
+                indexOfWord = text.IndexOf(word);
             }
-            Console.WriteLine(secondWord);
+            Console.WriteLine(text);
         }
     }
 }
