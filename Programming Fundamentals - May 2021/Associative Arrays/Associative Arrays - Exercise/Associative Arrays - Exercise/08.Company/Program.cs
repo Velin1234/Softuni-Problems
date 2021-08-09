@@ -12,11 +12,7 @@ namespace _08.Company
             Dictionary<string, List<string>> employeesIDs = new Dictionary<string, List<string>>();
             while (companyInfo[0] != "End")
             {
-                if (employeesIDs.ContainsKey(companyInfo[0]))
-                {
-                    employeesIDs[companyInfo[0]].Add(companyInfo[1]);
-                }
-                else
+                if (!employeesIDs.ContainsKey(companyInfo[0]))
                 {
                     employeesIDs.Add(companyInfo[0], new List<string>());
                     employeesIDs[companyInfo[0]].Add(companyInfo[1]);
