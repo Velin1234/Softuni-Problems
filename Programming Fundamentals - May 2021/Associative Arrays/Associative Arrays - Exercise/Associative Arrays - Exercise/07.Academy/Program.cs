@@ -33,7 +33,10 @@ namespace _07.Academy
             }
             foreach (var student in formattedStudents.OrderByDescending(g => g.Value))
             {
-                Console.WriteLine($"{student.Key} -> {student.Value:f2}");
+                if (student.Value >= 4.50)
+                {
+                    Console.WriteLine($"{student.Key} -> {student.Value:f2}");
+                }
             }
  
         }
