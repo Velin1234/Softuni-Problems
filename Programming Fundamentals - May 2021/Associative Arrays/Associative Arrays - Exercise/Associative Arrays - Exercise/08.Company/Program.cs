@@ -15,7 +15,6 @@ namespace _08.Company
                 if (employeesIDs.ContainsKey(companyInfo[0]))
                 {
                     employeesIDs[companyInfo[0]].Add(companyInfo[1]);
-
                 }
                 else
                 {
@@ -25,7 +24,7 @@ namespace _08.Company
                 companyInfo = Console.ReadLine().Split(" -> ").ToList();
             }
 
-            foreach (var subject in employeesIDs.OrderByDescending(c => c.Key))
+            foreach (var subject in employeesIDs.OrderBy(c => c.Key))
             {
                 Console.WriteLine($"{subject.Key}");
                 Console.WriteLine($"-- {string.Join("\n-- ", subject.Value.OrderBy(n => n))}");
