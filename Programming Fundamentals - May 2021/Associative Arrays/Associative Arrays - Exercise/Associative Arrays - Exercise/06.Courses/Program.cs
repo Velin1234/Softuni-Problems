@@ -25,7 +25,7 @@ namespace _06.Courses
                 studentsInfo = Console.ReadLine().Split(" : ").ToList();
             }
 
-            foreach (var subject in subjectsInfo.OrderBy(s => s.Value.Count))
+            foreach (var subject in subjectsInfo.OrderByDescending(s => s.Value.Count))
             {
                 Console.WriteLine($"{subject.Key}: {subject.Value.Count}");
                 Console.WriteLine($"-- {string.Join("\n-- ",subject.Value)}");
