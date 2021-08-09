@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Miner", "02. Miner\02. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Farming", "03.Farming\03.Farming.csproj", "{6B32E660-CC70-42BC-A3CB-331A90171C82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Orders", "04.Orders\04.Orders.csproj", "{329FC5D0-2CFF-4AD5-ABF8-715EFDE05046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Orders", "04.Orders\04.Orders.csproj", "{329FC5D0-2CFF-4AD5-ABF8-715EFDE05046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Parking", "05.Parking\05.Parking.csproj", "{0333BAC2-9509-45B8-8D06-137FF042FF6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Parking", "05.Parking\05.Parking.csproj", "{0333BAC2-9509-45B8-8D06-137FF042FF6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Courses", "06.Courses\06.Courses.csproj", "{30F04D6C-C865-4AE9-BD8B-2D8EC4A032F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Courses", "06.Courses\06.Courses.csproj", "{30F04D6C-C865-4AE9-BD8B-2D8EC4A032F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Academy", "07.Academy\07.Academy.csproj", "{A043552A-5120-4DC5-B7A6-4B51F70A4C79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{30F04D6C-C865-4AE9-BD8B-2D8EC4A032F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30F04D6C-C865-4AE9-BD8B-2D8EC4A032F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30F04D6C-C865-4AE9-BD8B-2D8EC4A032F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A043552A-5120-4DC5-B7A6-4B51F70A4C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A043552A-5120-4DC5-B7A6-4B51F70A4C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A043552A-5120-4DC5-B7A6-4B51F70A4C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A043552A-5120-4DC5-B7A6-4B51F70A4C79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
