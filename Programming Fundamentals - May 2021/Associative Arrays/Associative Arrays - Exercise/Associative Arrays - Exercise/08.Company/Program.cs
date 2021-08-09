@@ -9,28 +9,31 @@ namespace _08.Company
         static void Main(string[] args)
         {
             List<string> companyInfo = Console.ReadLine().Split(" -> ").ToList();
-            Dictionary<string, List<string>> employeesIDs = new Dictionary<string, List<string>>();
+            Dictionary<string, List<string>> companies = new Dictionary<string, List<string>>();
+            
             while (companyInfo[0] != "End")
             {
-                if (employeesIDs.ContainsKey(companyInfo[0]))
+                string companyName = companyInfo[0];
+                string employeeId = companyInfo[1];
+                if (companies.ContainsKey(companyName))
                 {
-                    if (!employeesIDs[companyInfo[0]].Contains(companyInfo[1]))
+                    if (!companies[companyName].Contains(employeeId))
                     {
-                        employeesIDs[companyInfo[0]].Add(companyInfo[1]);
+                        companies[companyName].Add(employeeId);
                     }
                 }
                 else
                 {
-                    employeesIDs.Add(companyInfo[0], new List<string>());
-                    employeesIDs[companyInfo[0]].Add(companyInfo[1]);
+                    companies.Add(companyName, new List<string>());
+                    companies[companyName].Add(employeeId);
                 }
                 companyInfo = Console.ReadLine().Split(" -> ").ToList();
             }
 
-            foreach (var subject in employeesIDs.OrderBy(c => c.Key))
+            foreach (var company in companies.OrderBy(c => c.Key))
             {
-                Console.WriteLine($"{subject.Key}");
-                Console.WriteLine($"-- {string.Join("\n-- ", subject.Value.OrderBy(n => n))}");
+                Console.WriteLine($"{company.Key}");
+                Console.WriteLine($"-- {string.Join("\n-- ", company.Value.OrderBy(n => n))}");
             }
         }
     }
