@@ -14,9 +14,8 @@ namespace _01.Reverse_Strings
                 {
                     reversed += line[i];
                 }
-                Console.WriteLine();
+                Console.WriteLine($"{line} = {reversed}");
                 line = Console.ReadLine();
-
             }
         }
     }
