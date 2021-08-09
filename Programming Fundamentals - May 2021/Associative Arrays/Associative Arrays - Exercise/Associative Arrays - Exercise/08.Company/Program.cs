@@ -32,7 +32,7 @@ namespace _08.Company
             foreach (var company in companies.OrderBy(c => c.Key))
             {
                 Console.WriteLine($"{company.Key}");
-                Console.WriteLine($"-- {string.Join("\n-- ", company.Value.OrderBy(n => n))}");
+                Console.WriteLine($"-- {string.Join("\n-- ", company.Value)}");
             }
         }
     }
