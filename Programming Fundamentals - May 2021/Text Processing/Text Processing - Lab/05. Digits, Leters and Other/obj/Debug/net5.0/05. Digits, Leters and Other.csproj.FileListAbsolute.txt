@@ -1,0 +1,16 @@
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\bin\Debug\net5.0\05. Digits, Leters and Other.exe
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\bin\Debug\net5.0\05. Digits, Leters and Other.deps.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\bin\Debug\net5.0\05. Digits, Leters and Other.runtimeconfig.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\bin\Debug\net5.0\05. Digits, Leters and Other.runtimeconfig.dev.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\bin\Debug\net5.0\05. Digits, Leters and Other.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\bin\Debug\net5.0\ref\05. Digits, Leters and Other.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\bin\Debug\net5.0\05. Digits, Leters and Other.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\obj\Debug\net5.0\05. Digits, Leters and Other.csproj.AssemblyReference.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\obj\Debug\net5.0\05. Digits, Leters and Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\obj\Debug\net5.0\05. Digits, Leters and Other.AssemblyInfoInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\obj\Debug\net5.0\05. Digits, Leters and Other.AssemblyInfo.cs
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\obj\Debug\net5.0\05. Digits, Leters and Other.csproj.CoreCompileInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\obj\Debug\net5.0\05. Digits, Leters and Other.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\obj\Debug\net5.0\ref\05. Digits, Leters and Other.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\obj\Debug\net5.0\05. Digits, Leters and Other.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing - Lab\05. Digits, Leters and Other\obj\Debug\net5.0\05. Digits, Leters and Other.genruntimeconfig.cache
