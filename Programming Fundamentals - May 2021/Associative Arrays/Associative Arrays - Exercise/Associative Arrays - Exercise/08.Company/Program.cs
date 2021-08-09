@@ -15,18 +15,17 @@ namespace _08.Company
             {
                 string companyName = companyInfo[0];
                 string employeeId = companyInfo[1];
-                if (companies.ContainsKey(companyName))
-                {
-                    if (!companies[companyName].Contains(employeeId))
-                    {
-                        companies[companyName].Add(employeeId);
-                    }
-                }
-                else
+                if (!companies.ContainsKey(companyName))
                 {
                     companies.Add(companyName, new List<string>());
                     companies[companyName].Add(employeeId);
                 }
+
+                if (!companies[companyName].Contains(employeeId))
+                {
+                    companies[companyName].Add(employeeId);
+                }
+
                 companyInfo = Console.ReadLine().Split(" -> ").ToList();
             }
 
