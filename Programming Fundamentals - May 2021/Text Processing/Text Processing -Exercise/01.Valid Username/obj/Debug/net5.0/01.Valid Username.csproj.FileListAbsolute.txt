@@ -1,0 +1,16 @@
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\bin\Debug\net5.0\01.Valid Username.exe
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\bin\Debug\net5.0\01.Valid Username.deps.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\bin\Debug\net5.0\01.Valid Username.runtimeconfig.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\bin\Debug\net5.0\01.Valid Username.runtimeconfig.dev.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\bin\Debug\net5.0\01.Valid Username.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\bin\Debug\net5.0\ref\01.Valid Username.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\bin\Debug\net5.0\01.Valid Username.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\obj\Debug\net5.0\01.Valid Username.csproj.AssemblyReference.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\obj\Debug\net5.0\01.Valid Username.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\obj\Debug\net5.0\01.Valid Username.AssemblyInfoInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\obj\Debug\net5.0\01.Valid Username.AssemblyInfo.cs
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\obj\Debug\net5.0\01.Valid Username.csproj.CoreCompileInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\obj\Debug\net5.0\01.Valid Username.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\obj\Debug\net5.0\ref\01.Valid Username.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\obj\Debug\net5.0\01.Valid Username.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\01.Valid Username\obj\Debug\net5.0\01.Valid Username.genruntimeconfig.cache
