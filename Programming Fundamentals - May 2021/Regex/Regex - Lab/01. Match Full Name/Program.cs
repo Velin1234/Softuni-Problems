@@ -12,7 +12,7 @@ namespace _01._Match_Full_Name
             MatchCollection matchedNames = Regex.Matches(names, regex);
             foreach (Match name in matchedNames)
             {
-                Console.WriteLine($"{name.Value}" +" ");
+                Console.WriteLine(name.Value + " ");
             }
         }
     }
