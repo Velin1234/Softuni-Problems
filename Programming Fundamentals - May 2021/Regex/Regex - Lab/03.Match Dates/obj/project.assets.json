@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Regex\\Regex - Lab\\01. Match Full Name\\01. Match Full Name.csproj",
-      "projectName": "01. Match Full Name",
-      "projectPath": "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Regex\\Regex - Lab\\01. Match Full Name\\01. Match Full Name.csproj",
+      "projectUniqueName": "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Regex\\Regex - Lab\\03.Match Dates\\03.Match Dates.csproj",
+      "projectName": "03.Match Dates",
+      "projectPath": "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Regex\\Regex - Lab\\03.Match Dates\\03.Match Dates.csproj",
       "packagesPath": "C:\\Users\\venit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Regex\\Regex - Lab\\01. Match Full Name\\obj\\",
+      "outputPath": "C:\\Users\\venit\\Source\\Repos\\Softuni-Problems\\Programming Fundamentals - May 2021\\Regex\\Regex - Lab\\03.Match Dates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\venit\\AppData\\Roaming\\NuGet\\NuGet.Config",
