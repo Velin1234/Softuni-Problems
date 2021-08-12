@@ -1,0 +1,16 @@
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\bin\Debug\net5.0\06.Repeating Chars.exe
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\bin\Debug\net5.0\06.Repeating Chars.deps.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\bin\Debug\net5.0\06.Repeating Chars.runtimeconfig.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\bin\Debug\net5.0\06.Repeating Chars.runtimeconfig.dev.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\bin\Debug\net5.0\06.Repeating Chars.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\bin\Debug\net5.0\ref\06.Repeating Chars.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\bin\Debug\net5.0\06.Repeating Chars.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\obj\Debug\net5.0\06.Repeating Chars.csproj.AssemblyReference.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\obj\Debug\net5.0\06.Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\obj\Debug\net5.0\06.Repeating Chars.AssemblyInfoInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\obj\Debug\net5.0\06.Repeating Chars.AssemblyInfo.cs
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\obj\Debug\net5.0\06.Repeating Chars.csproj.CoreCompileInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\obj\Debug\net5.0\06.Repeating Chars.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\obj\Debug\net5.0\ref\06.Repeating Chars.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\obj\Debug\net5.0\06.Repeating Chars.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\06.Repeating Chars\obj\Debug\net5.0\06.Repeating Chars.genruntimeconfig.cache
