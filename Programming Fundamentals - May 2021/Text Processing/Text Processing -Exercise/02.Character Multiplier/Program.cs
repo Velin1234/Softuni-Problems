@@ -8,41 +8,25 @@ namespace _02.Character_Multiplier
     {
         static void Main(string[] args)
         {
-            List<string> @strings = Console.ReadLine().Split(" ").ToList();
-            string str1 = @strings[0];
-            string str2 = @strings[1];
+            List<string> strings = Console.ReadLine().Split().ToList();
+            List<char> shorter = strings[0].Length < strings[1].Length ? strings[0].ToCharArray().ToList() : strings[1].ToCharArray().ToList();
+            List<char> longer = strings[0] == strings[1] ? shorter.ToList() : strings.First(s => s != string.Join("", shorter)).ToCharArray().ToList();
             int sum = 0;
-            if (str1.Length > str2.Length)
+            while (shorter.Count != 0)
             {
-                for (int i = 0; i < str2.Length; i++)
+                sum += shorter[0] * longer[0];
+                shorter.Remove(shorter[0]);
+                longer.Remove(longer[0]);
+            }
+
+            if (longer.Count > 0)
+            {
+                foreach (var @char in longer)
                 {
-                    sum += Convert.ToChar(str1[i]) * Convert.ToChar(str2[i]);
-                }
-                int leftLength = str1.Length - str2.Length;
-                for (int i = str2.Length; i <= leftLength; i++)
-                {
-                    sum += Convert.ToChar(str1[i]);
+                    sum += @char;
                 }
             }
-            else if (str1.Length < str2.Length)
-            {
-                for (int i = 0; i < str1.Length; i++)
-                {
-                    sum += Convert.ToChar(str1[i]) * Convert.ToChar(str2[i]);
-                }
-                int leftLength = str2.Length - str1.Length;
-                for (int i = str1.Length; i <= leftLength; i++)
-                {
-                    sum += Convert.ToChar(str2[i]);
-                }
-            }
-            else
-            {
-                for (int i = 0; i < str1.Length; i++)
-                {
-                    sum += Convert.ToChar(str1[i]) * Convert.ToChar(str2[i]);
-                }
-            }
+
             Console.WriteLine(sum);
         }
     }
