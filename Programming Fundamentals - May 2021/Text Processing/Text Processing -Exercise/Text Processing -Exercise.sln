@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Valid Username", "01.Valid Username\01.Valid Username.csproj", "{74AE123E-A835-46BE-A64C-278E375F8CB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Valid Username", "01.Valid Username\01.Valid Username.csproj", "{74AE123E-A835-46BE-A64C-278E375F8CB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Character Multiplier", "02.Character Multiplier\02.Character Multiplier.csproj", "{2324B4CF-0076-4B32-AA6C-BBC9BE79502D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Character Multiplier", "02.Character Multiplier\02.Character Multiplier.csproj", "{2324B4CF-0076-4B32-AA6C-BBC9BE79502D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Extract file", "03.Extract file\03.Extract file.csproj", "{2EEA7CEB-DA52-418F-942C-3D4A4BEBE826}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2324B4CF-0076-4B32-AA6C-BBC9BE79502D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2324B4CF-0076-4B32-AA6C-BBC9BE79502D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2324B4CF-0076-4B32-AA6C-BBC9BE79502D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EEA7CEB-DA52-418F-942C-3D4A4BEBE826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEA7CEB-DA52-418F-942C-3D4A4BEBE826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEA7CEB-DA52-418F-942C-3D4A4BEBE826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEA7CEB-DA52-418F-942C-3D4A4BEBE826}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

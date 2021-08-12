@@ -1,0 +1,16 @@
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\bin\Debug\net5.0\03.Extract file.exe
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\bin\Debug\net5.0\03.Extract file.deps.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\bin\Debug\net5.0\03.Extract file.runtimeconfig.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\bin\Debug\net5.0\03.Extract file.runtimeconfig.dev.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\bin\Debug\net5.0\03.Extract file.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\bin\Debug\net5.0\ref\03.Extract file.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\bin\Debug\net5.0\03.Extract file.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\obj\Debug\net5.0\03.Extract file.csproj.AssemblyReference.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\obj\Debug\net5.0\03.Extract file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\obj\Debug\net5.0\03.Extract file.AssemblyInfoInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\obj\Debug\net5.0\03.Extract file.AssemblyInfo.cs
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\obj\Debug\net5.0\03.Extract file.csproj.CoreCompileInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\obj\Debug\net5.0\03.Extract file.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\obj\Debug\net5.0\ref\03.Extract file.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\obj\Debug\net5.0\03.Extract file.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\03.Extract file\obj\Debug\net5.0\03.Extract file.genruntimeconfig.cache
