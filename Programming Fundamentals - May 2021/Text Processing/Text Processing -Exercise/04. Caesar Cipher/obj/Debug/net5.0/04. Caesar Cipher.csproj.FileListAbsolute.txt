@@ -1,0 +1,16 @@
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.exe
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.deps.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.runtimeconfig.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.runtimeconfig.dev.json
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\bin\Debug\net5.0\ref\04. Caesar Cipher.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.csproj.AssemblyReference.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\obj\Debug\net5.0\ref\04. Caesar Cipher.dll
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.pdb
+C:\Users\venit\Source\Repos\Softuni-Problems\Programming Fundamentals - May 2021\Text Processing\Text Processing -Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.genruntimeconfig.cache
