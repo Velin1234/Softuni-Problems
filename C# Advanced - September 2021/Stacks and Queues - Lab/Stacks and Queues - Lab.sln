@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Reverse Strings", "1. Reverse Strings\1. Reverse Strings.csproj", "{BE0CFA29-3C90-4302-938F-9187C845C7B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Stack Sum", "2. Stack Sum\2. Stack Sum.csproj", "{414AE5A4-3B9F-495D-AEE6-807FDDB2F995}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Stack Sum", "2. Stack Sum\2. Stack Sum.csproj", "{414AE5A4-3B9F-495D-AEE6-807FDDB2F995}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Simple Calculator", "3. Simple Calculator\3. Simple Calculator.csproj", "{584E74CC-DE11-420E-8AAA-A8D24E3689F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Simple Calculator", "3. Simple Calculator\3. Simple Calculator.csproj", "{584E74CC-DE11-420E-8AAA-A8D24E3689F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Matching Brackets", "4. Matching Brackets\4. Matching Brackets.csproj", "{BAC75C70-6F65-4C91-9B15-1F7AF0E5800B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{584E74CC-DE11-420E-8AAA-A8D24E3689F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{584E74CC-DE11-420E-8AAA-A8D24E3689F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{584E74CC-DE11-420E-8AAA-A8D24E3689F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC75C70-6F65-4C91-9B15-1F7AF0E5800B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC75C70-6F65-4C91-9B15-1F7AF0E5800B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC75C70-6F65-4C91-9B15-1F7AF0E5800B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC75C70-6F65-4C91-9B15-1F7AF0E5800B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
