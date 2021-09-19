@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.exe
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.deps.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\bin\Debug\net5.0\ref\5. Fashion Boutique.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\obj\Debug\net5.0\ref\5. Fashion Boutique.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.genruntimeconfig.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.csproj.AssemblyReference.cache

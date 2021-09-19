@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.exe
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.deps.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\bin\Debug\net5.0\ref\2. Basic Queue Operations.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\obj\Debug\net5.0\ref\2. Basic Queue Operations.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.genruntimeconfig.cache

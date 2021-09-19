@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\obj\Debug\net5.0\4. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\obj\Debug\net5.0\4. Fast Food.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\obj\Debug\net5.0\4. Fast Food.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\obj\Debug\net5.0\4. Fast Food.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\bin\Debug\net5.0\4. Fast Food.exe
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\bin\Debug\net5.0\4. Fast Food.deps.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\bin\Debug\net5.0\4. Fast Food.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\bin\Debug\net5.0\4. Fast Food.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\bin\Debug\net5.0\4. Fast Food.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\bin\Debug\net5.0\ref\4. Fast Food.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\bin\Debug\net5.0\4. Fast Food.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\obj\Debug\net5.0\4. Fast Food.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\obj\Debug\net5.0\ref\4. Fast Food.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\obj\Debug\net5.0\4. Fast Food.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\obj\Debug\net5.0\4. Fast Food.genruntimeconfig.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\4. Fast Food\obj\Debug\net5.0\4. Fast Food.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.exe
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.deps.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\bin\Debug\net5.0\ref\6. Songs Queue.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\obj\Debug\net5.0\ref\6. Songs Queue.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\bin\Debug\net5.0\3. Max and Min Element.exe
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\bin\Debug\net5.0\3. Max and Min Element.deps.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\bin\Debug\net5.0\3. Max and Min Element.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\bin\Debug\net5.0\3. Max and Min Element.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\bin\Debug\net5.0\3. Max and Min Element.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\bin\Debug\net5.0\ref\3. Max and Min Element.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\bin\Debug\net5.0\3. Max and Min Element.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\obj\Debug\net5.0\3. Max and Min Element.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\obj\Debug\net5.0\3. Max and Min Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\obj\Debug\net5.0\3. Max and Min Element.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\obj\Debug\net5.0\3. Max and Min Element.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\obj\Debug\net5.0\3. Max and Min Element.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\obj\Debug\net5.0\3. Max and Min Element.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\obj\Debug\net5.0\ref\3. Max and Min Element.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\obj\Debug\net5.0\3. Max and Min Element.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\3. Max and Min Element\obj\Debug\net5.0\3. Max and Min Element.genruntimeconfig.cache
