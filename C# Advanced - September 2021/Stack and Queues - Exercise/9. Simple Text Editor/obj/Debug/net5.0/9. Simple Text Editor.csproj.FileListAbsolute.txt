@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.exe
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.deps.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\bin\Debug\net5.0\ref\9. Simple Text Editor.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\obj\Debug\net5.0\ref\9. Simple Text Editor.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.genruntimeconfig.cache

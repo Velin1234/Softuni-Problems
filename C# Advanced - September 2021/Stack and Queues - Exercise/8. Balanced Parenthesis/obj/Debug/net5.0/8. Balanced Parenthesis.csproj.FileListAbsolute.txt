@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\net5.0\8. Balanced Parenthesis.exe
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\net5.0\8. Balanced Parenthesis.deps.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\net5.0\8. Balanced Parenthesis.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\net5.0\8. Balanced Parenthesis.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\net5.0\8. Balanced Parenthesis.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\net5.0\ref\8. Balanced Parenthesis.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\bin\Debug\net5.0\8. Balanced Parenthesis.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\net5.0\8. Balanced Parenthesis.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\net5.0\8. Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\net5.0\8. Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\net5.0\8. Balanced Parenthesis.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\net5.0\8. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\net5.0\8. Balanced Parenthesis.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\net5.0\ref\8. Balanced Parenthesis.dll
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\net5.0\8. Balanced Parenthesis.pdb
+D:\Repos\C# Advanced - September 2021\Stack and Queues - Exercise\8. Balanced Parenthesis\obj\Debug\net5.0\8. Balanced Parenthesis.genruntimeconfig.cache
