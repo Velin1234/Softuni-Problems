@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.exe
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.deps.json
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.dll
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\ref\2. Sum Matrix Columns.dll
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.pdb
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.dll
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\ref\2. Sum Matrix Columns.dll
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.pdb
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.genruntimeconfig.cache

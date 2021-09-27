@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.exe
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.deps.json
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\ref\1. Sum Matrix Elements.dll
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\ref\1. Sum Matrix Elements.dll
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\Repos\C# Advanced - September 2021\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.genruntimeconfig.cache
