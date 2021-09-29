@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T6MVof9F/VXCHQmnsvThhsYfSJ0MFi0w2ESu7du8kGjHeLjQzT/yvyHfnkKz66XjZ5Ka8sDCGzV1sRroPdZbIA==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\C# Advanced - September 2021\\Sets and Dictionaries Advanced - Lab\\02. Average Student Grades\\02. Average Student Grades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\net5.0\3. Product Shop.exe
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\net5.0\3. Product Shop.deps.json
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\net5.0\3. Product Shop.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\net5.0\3. Product Shop.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\net5.0\3. Product Shop.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\net5.0\ref\3. Product Shop.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\net5.0\3. Product Shop.pdb
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\net5.0\3. Product Shop.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\net5.0\3. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\net5.0\3. Product Shop.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\net5.0\3. Product Shop.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\net5.0\3. Product Shop.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\net5.0\3. Product Shop.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\net5.0\ref\3. Product Shop.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\net5.0\3. Product Shop.pdb
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\net5.0\3. Product Shop.genruntimeconfig.cache
