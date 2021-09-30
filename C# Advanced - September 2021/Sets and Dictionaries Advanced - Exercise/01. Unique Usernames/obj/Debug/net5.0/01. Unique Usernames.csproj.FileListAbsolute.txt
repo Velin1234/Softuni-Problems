@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.exe
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.deps.json
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\ref\01. Unique Usernames.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.pdb
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\ref\01. Unique Usernames.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.pdb
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.genruntimeconfig.cache

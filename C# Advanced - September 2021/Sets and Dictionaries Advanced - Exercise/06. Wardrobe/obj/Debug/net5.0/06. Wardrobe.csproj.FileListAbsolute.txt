@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.exe
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.deps.json
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\ref\06. Wardrobe.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.pdb
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\ref\06. Wardrobe.dll
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.pdb
+D:\Repos\C# Advanced - September 2021\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.genruntimeconfig.cache
