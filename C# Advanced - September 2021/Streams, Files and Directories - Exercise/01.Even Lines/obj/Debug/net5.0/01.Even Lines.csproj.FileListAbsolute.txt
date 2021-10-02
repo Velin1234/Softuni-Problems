@@ -1,0 +1,20 @@
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\01.Even Lines.exe
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\01.Even Lines.deps.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\01.Even Lines.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\01.Even Lines.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\01.Even Lines.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\ref\01.Even Lines.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\01.Even Lines.pdb
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\net5.0\01.Even Lines.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\net5.0\01.Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\net5.0\01.Even Lines.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\net5.0\01.Even Lines.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\net5.0\01.Even Lines.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\net5.0\01.Even Lines.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\net5.0\ref\01.Even Lines.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\net5.0\01.Even Lines.pdb
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\net5.0\01.Even Lines.genruntimeconfig.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\expectedResult.txt
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\text.txt
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\words.txt
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\net5.0\copyMe.png
