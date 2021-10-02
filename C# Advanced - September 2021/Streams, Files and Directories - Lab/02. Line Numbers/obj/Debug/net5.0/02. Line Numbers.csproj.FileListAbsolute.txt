@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\net5.0\02. Line Numbers.exe
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\net5.0\02. Line Numbers.deps.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\net5.0\02. Line Numbers.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\net5.0\02. Line Numbers.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\net5.0\02. Line Numbers.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\net5.0\ref\02. Line Numbers.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\net5.0\02. Line Numbers.pdb
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\net5.0\02. Line Numbers.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\net5.0\02. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\net5.0\02. Line Numbers.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\net5.0\02. Line Numbers.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\net5.0\02. Line Numbers.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\net5.0\02. Line Numbers.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\net5.0\ref\02. Line Numbers.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\net5.0\02. Line Numbers.pdb
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\net5.0\02. Line Numbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.exe
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.deps.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\ref\01. Odd Lines.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.pdb
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\ref\01. Odd Lines.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.pdb
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.genruntimeconfig.cache

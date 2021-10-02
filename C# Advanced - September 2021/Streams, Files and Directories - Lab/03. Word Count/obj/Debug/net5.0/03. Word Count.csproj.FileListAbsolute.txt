@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net5.0\03. Word Count.exe
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net5.0\03. Word Count.deps.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net5.0\03. Word Count.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net5.0\03. Word Count.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net5.0\03. Word Count.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net5.0\ref\03. Word Count.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net5.0\03. Word Count.pdb
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net5.0\03. Word Count.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net5.0\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net5.0\03. Word Count.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net5.0\03. Word Count.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net5.0\03. Word Count.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net5.0\03. Word Count.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net5.0\ref\03. Word Count.dll
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net5.0\03. Word Count.pdb
+D:\Repos\C# Advanced - September 2021\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net5.0\03. Word Count.genruntimeconfig.cache
