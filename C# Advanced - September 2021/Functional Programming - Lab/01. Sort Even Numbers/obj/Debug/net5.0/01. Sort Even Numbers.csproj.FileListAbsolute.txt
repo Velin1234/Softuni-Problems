@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.exe
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.deps.json
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\ref\01. Sort Even Numbers.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.pdb
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\ref\01. Sort Even Numbers.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.pdb
+D:\Repos\C# Advanced - September 2021\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.genruntimeconfig.cache
