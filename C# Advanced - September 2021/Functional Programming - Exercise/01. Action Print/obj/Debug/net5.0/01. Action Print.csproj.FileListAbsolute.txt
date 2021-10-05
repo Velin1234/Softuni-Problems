@@ -1,0 +1,16 @@
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.exe
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.deps.json
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\ref\01. Action Print.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.pdb
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\ref\01. Action Print.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.pdb
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.genruntimeconfig.cache

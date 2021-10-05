@@ -1,0 +1,15 @@
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.exe
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.deps.json
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\ref\02. Knights of Honor.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.pdb
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\ref\02. Knights of Honor.dll
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.pdb
+D:\Repos\C# Advanced - September 2021\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.genruntimeconfig.cache
