@@ -1,0 +1,13 @@
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.exe
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.deps.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.dll
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.pdb
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.dll
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.pdb
+D:\Repos\C# Advanced - September 2021\Defining Classes - Lab\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.genruntimeconfig.cache
