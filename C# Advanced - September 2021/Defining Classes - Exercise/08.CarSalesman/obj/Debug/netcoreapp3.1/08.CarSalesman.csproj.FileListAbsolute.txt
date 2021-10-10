@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.exe
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.deps.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.dll
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.pdb
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.dll
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.pdb
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.genruntimeconfig.cache

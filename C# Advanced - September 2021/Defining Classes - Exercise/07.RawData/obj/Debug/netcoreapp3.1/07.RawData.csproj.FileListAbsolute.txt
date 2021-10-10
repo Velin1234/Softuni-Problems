@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.exe
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.deps.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.dll
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.pdb
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.dll
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.pdb
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.genruntimeconfig.cache

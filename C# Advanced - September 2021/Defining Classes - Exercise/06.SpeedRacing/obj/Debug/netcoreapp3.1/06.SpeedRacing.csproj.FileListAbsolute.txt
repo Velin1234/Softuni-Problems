@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.exe
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.deps.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.dll
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.pdb
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.dll
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.pdb
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.genruntimeconfig.cache

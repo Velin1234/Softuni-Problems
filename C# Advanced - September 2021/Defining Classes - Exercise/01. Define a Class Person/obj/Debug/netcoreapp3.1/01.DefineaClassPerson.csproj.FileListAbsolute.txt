@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01.DefineaClassPerson.exe
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01.DefineaClassPerson.deps.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01.DefineaClassPerson.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01.DefineaClassPerson.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01.DefineaClassPerson.dll
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01.DefineaClassPerson.pdb
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01.DefineaClassPerson.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01.DefineaClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01.DefineaClassPerson.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01.DefineaClassPerson.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01.DefineaClassPerson.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01.DefineaClassPerson.dll
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01.DefineaClassPerson.pdb
+D:\Repos\C# Advanced - September 2021\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01.DefineaClassPerson.genruntimeconfig.cache
