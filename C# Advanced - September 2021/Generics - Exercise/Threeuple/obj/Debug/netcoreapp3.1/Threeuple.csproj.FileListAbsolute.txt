@@ -1,0 +1,13 @@
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.exe
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.deps.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.dll
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.pdb
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache

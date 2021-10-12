@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\bin\Debug\netcoreapp3.1\GenericBoxofInteger.exe
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\bin\Debug\netcoreapp3.1\GenericBoxofInteger.deps.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\bin\Debug\netcoreapp3.1\GenericBoxofInteger.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\bin\Debug\netcoreapp3.1\GenericBoxofInteger.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\bin\Debug\netcoreapp3.1\GenericBoxofInteger.dll
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\bin\Debug\netcoreapp3.1\GenericBoxofInteger.pdb
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\obj\Debug\netcoreapp3.1\GenericBoxofInteger.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\obj\Debug\netcoreapp3.1\GenericBoxofInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\obj\Debug\netcoreapp3.1\GenericBoxofInteger.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\obj\Debug\netcoreapp3.1\GenericBoxofInteger.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\obj\Debug\netcoreapp3.1\GenericBoxofInteger.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\obj\Debug\netcoreapp3.1\GenericBoxofInteger.dll
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\obj\Debug\netcoreapp3.1\GenericBoxofInteger.pdb
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericBoxofInteger\obj\Debug\netcoreapp3.1\GenericBoxofInteger.genruntimeconfig.cache

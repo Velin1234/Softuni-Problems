@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.exe
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.deps.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.dll
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.pdb
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.dll
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.pdb
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.genruntimeconfig.cache

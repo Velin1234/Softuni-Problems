@@ -1,0 +1,13 @@
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.exe
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.deps.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.dll
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.pdb
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.dll
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.pdb
+D:\Repos\C# Advanced - September 2021\Generics - Exercise\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.genruntimeconfig.cache
