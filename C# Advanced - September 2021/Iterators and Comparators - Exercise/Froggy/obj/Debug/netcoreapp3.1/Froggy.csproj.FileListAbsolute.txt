@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.exe
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.deps.json
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.dll
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.pdb
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.dll
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.pdb
+D:\Repos\C# Advanced - September 2021\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.genruntimeconfig.cache
