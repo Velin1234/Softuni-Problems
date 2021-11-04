@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.exe
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.deps.json
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.dll
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.pdb
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.dll
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.pdb
+D:\Repos\C# Advanced - September 2021\Exam23October2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.genruntimeconfig.cache

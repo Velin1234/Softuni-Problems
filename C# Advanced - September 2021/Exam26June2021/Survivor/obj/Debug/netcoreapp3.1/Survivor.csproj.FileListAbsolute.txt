@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.exe
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.deps.json
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.dll
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.pdb
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.dll
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.pdb
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.genruntimeconfig.cache

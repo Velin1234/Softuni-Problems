@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.exe
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.dll
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.dll
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+D:\Repos\C# Advanced - September 2021\Exam26June2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache

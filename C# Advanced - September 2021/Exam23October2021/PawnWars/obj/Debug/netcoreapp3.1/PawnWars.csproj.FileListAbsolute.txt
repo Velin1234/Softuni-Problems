@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.exe
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.deps.json
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.dll
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.pdb
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.dll
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.pdb
+D:\Repos\C# Advanced - September 2021\Exam23October2021\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.genruntimeconfig.cache

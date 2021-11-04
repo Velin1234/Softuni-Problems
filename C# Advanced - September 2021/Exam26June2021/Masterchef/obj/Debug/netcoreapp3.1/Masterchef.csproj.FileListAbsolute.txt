@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.exe
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.deps.json
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.dll
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.pdb
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.dll
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.pdb
+D:\Repos\C# Advanced - September 2021\Exam26June2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.genruntimeconfig.cache

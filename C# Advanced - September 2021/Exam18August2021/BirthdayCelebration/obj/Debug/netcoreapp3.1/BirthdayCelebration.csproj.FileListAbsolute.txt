@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.exe
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.deps.json
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.dll
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.pdb
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.dll
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.pdb
+D:\Repos\C# Advanced - September 2021\Exam18August2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.genruntimeconfig.cache

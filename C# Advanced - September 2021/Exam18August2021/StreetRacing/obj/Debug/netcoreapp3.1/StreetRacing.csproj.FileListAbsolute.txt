@@ -1,0 +1,14 @@
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.exe
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.deps.json
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.json
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.dev.json
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.dll
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.pdb
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.AssemblyReference.cache
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfoInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfo.cs
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.CoreCompileInputs.cache
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.dll
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.pdb
+D:\Repos\C# Advanced - September 2021\Exam18August2021\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.genruntimeconfig.cache
