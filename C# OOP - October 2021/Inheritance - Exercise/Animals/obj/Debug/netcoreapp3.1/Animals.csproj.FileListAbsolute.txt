@@ -1,0 +1,13 @@
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

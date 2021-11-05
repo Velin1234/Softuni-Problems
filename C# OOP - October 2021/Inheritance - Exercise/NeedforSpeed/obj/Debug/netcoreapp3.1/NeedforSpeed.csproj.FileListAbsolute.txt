@@ -1,0 +1,13 @@
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.exe
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.deps.json
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.dll
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.pdb
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.dll
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.pdb
+D:\Repos\C# OOP - October 2021\Inheritance - Exercise\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.genruntimeconfig.cache
