@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.genruntimeconfig.cache
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+D:\Repos\C# OOP - October 2021\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\ClassBoxData.pdb

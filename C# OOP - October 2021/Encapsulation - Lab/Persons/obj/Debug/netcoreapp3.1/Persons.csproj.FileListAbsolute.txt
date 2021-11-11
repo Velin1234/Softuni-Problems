@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\bin\Debug\netcoreapp3.1\Persons.exe
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\bin\Debug\netcoreapp3.1\Persons.deps.json
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\bin\Debug\netcoreapp3.1\Persons.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\bin\Debug\netcoreapp3.1\Persons.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\bin\Debug\netcoreapp3.1\Persons.dll
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\bin\Debug\netcoreapp3.1\Persons.pdb
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\obj\Debug\netcoreapp3.1\Persons.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\obj\Debug\netcoreapp3.1\Persons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\obj\Debug\netcoreapp3.1\Persons.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\obj\Debug\netcoreapp3.1\Persons.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\obj\Debug\netcoreapp3.1\Persons.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\obj\Debug\netcoreapp3.1\Persons.dll
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\obj\Debug\netcoreapp3.1\Persons.pdb
+D:\Repos\C# OOP - October 2021\Encapsulation - Lab\Persons\obj\Debug\netcoreapp3.1\Persons.genruntimeconfig.cache
