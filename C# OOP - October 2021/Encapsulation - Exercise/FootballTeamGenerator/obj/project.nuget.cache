@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Mc+MEQxPid/Q6c+9YNth/zxHkGY3bjanNIj9Jz7imngsBKdmw3lAcWkdeEMk/UBeubhAVEuvSmgqWkfwM1bxPw==",
+  "dgSpecHash": "PRsqKNtrcCTBmOC0tTLb+lRDsw88vlzY1nCqTQ91o8SBSYXFVVM43jq2nf53/SIG9h9KJUfVoG/+V7FONcZMFA==",
   "success": true,
   "projectFilePath": "D:\\Repos\\C# OOP - October 2021\\Encapsulation - Exercise\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

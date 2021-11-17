@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZVJnt5H/B2vwGgFEAM8Opavb8a6gqA9i7AvMWKHMfIwrKt3V8yBj8O/CicuDEfZ18NgadJS5DjOogP1QCACefA==",
+  "dgSpecHash": "oGo/YlHXTaQhpofx24XryQ1xe9cKh3dQQPYdyvlNclY0bJq7Dn7cpM5i9ha3/Z8UJVUd52tn51cEWNJYKVvCXw==",
   "success": true,
   "projectFilePath": "D:\\Repos\\C# OOP - October 2021\\Encapsulation - Exercise\\PizzaCalories\\PizzaCalories.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

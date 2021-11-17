@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5/s4hE1HkVuIPfVhKCGPZJAf6PxsrGxaJ67jQXVNHMBa+YKsAvUb6cstmsKi+pL8mMfl067vvmEFHerWntUbNA==",
+  "dgSpecHash": "xMX0p63VpI9VsOVxVso0RSi1BtEhfmCY+FnrWU6S/slKiC2QHJHtwarJ4o11N84VzfjMGYuumnYTR/0N4/nQRA==",
   "success": true,
   "projectFilePath": "D:\\Repos\\C# OOP - October 2021\\Encapsulation - Exercise\\Class Box Data\\ClassBoxData.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

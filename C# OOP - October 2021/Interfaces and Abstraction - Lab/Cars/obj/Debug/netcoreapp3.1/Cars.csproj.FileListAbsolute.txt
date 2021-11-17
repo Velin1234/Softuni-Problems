@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
