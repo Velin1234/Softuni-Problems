@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

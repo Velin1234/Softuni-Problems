@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+D:\Repos\C# OOP - October 2021\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache

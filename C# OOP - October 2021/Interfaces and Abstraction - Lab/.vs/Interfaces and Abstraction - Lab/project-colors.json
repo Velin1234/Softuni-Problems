@@ -5,7 +5,17 @@
       "ProjectGuid": "5fc064d3-4647-4fcd-bd44-20b0e6f4a9b2",
       "DisplayName": "01. Shapes",
       "ColorIndex": 0
+    },
+    "2e1928f0-8fd3-47f8-95fb-94bcca8d67a2": {
+      "ProjectGuid": "2e1928f0-8fd3-47f8-95fb-94bcca8d67a2",
+      "DisplayName": "Shapes",
+      "ColorIndex": 1
+    },
+    "2c1d167a-1c4d-4b0f-a2a3-b19b44376a5c": {
+      "ProjectGuid": "2c1d167a-1c4d-4b0f-a2a3-b19b44376a5c",
+      "DisplayName": "Cars",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
