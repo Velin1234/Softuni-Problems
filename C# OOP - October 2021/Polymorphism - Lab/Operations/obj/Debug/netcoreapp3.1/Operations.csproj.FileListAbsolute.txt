@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+D:\Repos\C# OOP - October 2021\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache
