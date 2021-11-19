@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20182fa0-a157-493c-98fe-cec63398ad12": {
+      "ProjectGuid": "20182fa0-a157-493c-98fe-cec63398ad12",
+      "DisplayName": "Vehicles",
+      "ColorIndex": 0
+    },
+    "bff00b8d-7fe7-4fd8-ac19-6027df6dddee": {
+      "ProjectGuid": "bff00b8d-7fe7-4fd8-ac19-6027df6dddee",
+      "DisplayName": "Raiding",
+      "ColorIndex": 1
+    },
+    "b978440e-55b2-4a4c-a76d-eb36c37abae1": {
+      "ProjectGuid": "b978440e-55b2-4a4c-a76d-eb36c37abae1",
+      "DisplayName": "WildFarm",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "Vehicles\Vehicles.csproj", "{20182FA0-A157-493C-98FE-CEC63398AD12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{BFF00B8D-7FE7-4FD8-AC19-6027DF6DDDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{B978440E-55B2-4A4C-A76D-EB36C37ABAE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20182FA0-A157-493C-98FE-CEC63398AD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20182FA0-A157-493C-98FE-CEC63398AD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20182FA0-A157-493C-98FE-CEC63398AD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20182FA0-A157-493C-98FE-CEC63398AD12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF00B8D-7FE7-4FD8-AC19-6027DF6DDDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF00B8D-7FE7-4FD8-AC19-6027DF6DDDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF00B8D-7FE7-4FD8-AC19-6027DF6DDDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF00B8D-7FE7-4FD8-AC19-6027DF6DDDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B978440E-55B2-4A4C-A76D-EB36C37ABAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B978440E-55B2-4A4C-A76D-EB36C37ABAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B978440E-55B2-4A4C-A76D-EB36C37ABAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B978440E-55B2-4A4C-A76D-EB36C37ABAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E6D270-C07C-4AC8-806D-FB3C71075167}
+	EndGlobalSection
+EndGlobal
