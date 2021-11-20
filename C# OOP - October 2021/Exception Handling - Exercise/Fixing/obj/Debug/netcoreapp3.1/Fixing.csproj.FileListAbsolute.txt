@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\bin\Debug\netcoreapp3.1\Fixing.exe
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\bin\Debug\netcoreapp3.1\Fixing.deps.json
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\bin\Debug\netcoreapp3.1\Fixing.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\bin\Debug\netcoreapp3.1\Fixing.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\bin\Debug\netcoreapp3.1\Fixing.dll
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\bin\Debug\netcoreapp3.1\Fixing.pdb
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\obj\Debug\netcoreapp3.1\Fixing.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\obj\Debug\netcoreapp3.1\Fixing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\obj\Debug\netcoreapp3.1\Fixing.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\obj\Debug\netcoreapp3.1\Fixing.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\obj\Debug\netcoreapp3.1\Fixing.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\obj\Debug\netcoreapp3.1\Fixing.dll
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\obj\Debug\netcoreapp3.1\Fixing.pdb
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\Fixing\obj\Debug\netcoreapp3.1\Fixing.genruntimeconfig.cache

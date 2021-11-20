@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.exe
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+D:\Repos\C# OOP - October 2021\Exception Handling - Exercise\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache

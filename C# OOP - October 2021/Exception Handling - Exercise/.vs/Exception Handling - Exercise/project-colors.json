@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8ec5d22-3b37-4aa2-b2bf-d0d420c330c2": {
+      "ProjectGuid": "d8ec5d22-3b37-4aa2-b2bf-d0d420c330c2",
+      "DisplayName": "SquareRoot",
+      "ColorIndex": 0
+    },
+    "d23c6304-a5de-4192-a40f-74a2b0702f85": {
+      "ProjectGuid": "d23c6304-a5de-4192-a40f-74a2b0702f85",
+      "DisplayName": "EnterNumbers",
+      "ColorIndex": 1
+    },
+    "d9f468c0-a03a-46aa-814d-ccf06cb93620": {
+      "ProjectGuid": "d9f468c0-a03a-46aa-814d-ccf06cb93620",
+      "DisplayName": "Fixing",
+      "ColorIndex": 2
+    },
+    "112e1470-e309-4018-9644-d162729d2a74": {
+      "ProjectGuid": "112e1470-e309-4018-9644-d162729d2a74",
+      "DisplayName": "Fixing Vol2",
+      "ColorIndex": 3
+    },
+    "5f16f788-8b62-4d73-8cdf-1fb61cb4e011": {
+      "ProjectGuid": "5f16f788-8b62-4d73-8cdf-1fb61cb4e011",
+      "DisplayName": "Convert.ToDouble",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
