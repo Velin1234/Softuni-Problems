@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8d6b53b-d539-4b92-9fdf-e3b4656aebc1": {
+      "ProjectGuid": "a8d6b53b-d539-4b92-9fdf-e3b4656aebc1",
+      "DisplayName": "Stealer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

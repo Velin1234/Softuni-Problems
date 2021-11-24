@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache

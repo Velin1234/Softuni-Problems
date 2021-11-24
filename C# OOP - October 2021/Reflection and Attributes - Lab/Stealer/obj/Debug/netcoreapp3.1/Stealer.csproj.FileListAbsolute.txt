@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+D:\Repos\C# OOP - October 2021\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache
