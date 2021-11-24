@@ -5,7 +5,12 @@
       "ProjectGuid": "a8d6b53b-d539-4b92-9fdf-e3b4656aebc1",
       "DisplayName": "Stealer",
       "ColorIndex": 0
+    },
+    "935d295d-3a47-4638-8759-48c51e46382e": {
+      "ProjectGuid": "935d295d-3a47-4638-8759-48c51e46382e",
+      "DisplayName": "AuthorProblem",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
