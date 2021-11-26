@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Repos\C# OOP - October 2021\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cadc6517-b2ac-4243-bd66-e3abe636ff9a": {
+      "ProjectGuid": "cadc6517-b2ac-4243-bd66-e3abe636ff9a",
+      "DisplayName": "TestAxe",
+      "ColorIndex": 0
+    },
+    "b7d9a053-7ce7-4c77-b116-6d2958b4b7d2": {
+      "ProjectGuid": "b7d9a053-7ce7-4c77-b116-6d2958b4b7d2",
+      "DisplayName": "TestAxe.Tests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1a91e72e-b702-416c-9c8f-dd20dbb2a49f": {
+      "ProjectGuid": "1a91e72e-b702-416c-9c8f-dd20dbb2a49f",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "c9d186d1-9bdf-4495-800a-281ff0f95f93": {
+      "ProjectGuid": "c9d186d1-9bdf-4495-800a-281ff0f95f93",
+      "DisplayName": "Skeleton.Tests",
+      "ColorIndex": 3
+    },
+    "3ecaaecc-9d71-40c9-9bde-11a211d30e8c": {
+      "ProjectGuid": "3ecaaecc-9d71-40c9-9bde-11a211d30e8c",
+      "DisplayName": "Skeleton",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
