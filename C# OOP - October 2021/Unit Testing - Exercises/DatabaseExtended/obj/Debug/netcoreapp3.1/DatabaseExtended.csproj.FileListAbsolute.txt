@@ -1,0 +1,10 @@
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.AssemblyReference.cache

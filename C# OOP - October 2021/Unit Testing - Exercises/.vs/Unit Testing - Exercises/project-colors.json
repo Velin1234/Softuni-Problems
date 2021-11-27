@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "723c2a4e-3bf2-470e-8312-0577fb81cdbe": {
+      "ProjectGuid": "723c2a4e-3bf2-470e-8312-0577fb81cdbe",
+      "DisplayName": "Unit Testing - Exercises",
+      "ColorIndex": 0
+    },
+    "2f7d4a89-b643-4ef3-9422-9797c5fa3884": {
+      "ProjectGuid": "2f7d4a89-b643-4ef3-9422-9797c5fa3884",
+      "DisplayName": "Database.Tests",
+      "ColorIndex": 1
+    },
+    "348ea949-f655-4f63-ac88-c0f71bf5dbe0": {
+      "ProjectGuid": "348ea949-f655-4f63-ac88-c0f71bf5dbe0",
+      "DisplayName": "Database.Tests",
+      "ColorIndex": 2
+    },
+    "d68adbfb-3aba-4116-9392-94eaf24ac998": {
+      "ProjectGuid": "d68adbfb-3aba-4116-9392-94eaf24ac998",
+      "DisplayName": "DatabaseExtended",
+      "ColorIndex": 3
+    },
+    "9381e1f8-af98-4656-9816-4eaecaacd77c": {
+      "ProjectGuid": "9381e1f8-af98-4656-9816-4eaecaacd77c",
+      "DisplayName": "DatabaseExtended.Tests",
+      "ColorIndex": 4
+    },
+    "ef0dc7f4-6bbf-454c-a43c-d2df69ce46ae": {
+      "ProjectGuid": "ef0dc7f4-6bbf-454c-a43c-d2df69ce46ae",
+      "DisplayName": "Database",
+      "ColorIndex": 5
+    },
+    "53f4c8a6-c6f4-477e-9e2b-e1851e7aa880": {
+      "ProjectGuid": "53f4c8a6-c6f4-477e-9e2b-e1851e7aa880",
+      "DisplayName": "CarManager",
+      "ColorIndex": 6
+    },
+    "35a5f52b-6a20-470c-bb70-29e7615c48d4": {
+      "ProjectGuid": "35a5f52b-6a20-470c-bb70-29e7615c48d4",
+      "DisplayName": "CarManager.Tests",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "65c04a09-54f8-438c-858e-5e122252b942": {
+      "ProjectGuid": "65c04a09-54f8-438c-858e-5e122252b942",
+      "DisplayName": "FightingArena.Tests",
+      "ColorIndex": 8
+    },
+    "74d53e67-0546-4afc-a7c6-6aa3a4365f4a": {
+      "ProjectGuid": "74d53e67-0546-4afc-a7c6-6aa3a4365f4a",
+      "DisplayName": "FightingArena",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

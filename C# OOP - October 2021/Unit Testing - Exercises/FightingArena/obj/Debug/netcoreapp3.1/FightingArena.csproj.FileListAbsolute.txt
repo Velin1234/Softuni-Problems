@@ -1,0 +1,10 @@
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+D:\Repos\C# OOP - October 2021\Unit Testing - Exercises\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
