@@ -1,0 +1,14 @@
+C:\Users\venit\Downloads\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\venit\Downloads\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\venit\Downloads\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\venit\Downloads\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\venit\Downloads\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\venit\Downloads\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\venit\Downloads\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+C:\Users\venit\Downloads\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venit\Downloads\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\venit\Downloads\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\venit\Downloads\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\venit\Downloads\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\venit\Downloads\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\venit\Downloads\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache

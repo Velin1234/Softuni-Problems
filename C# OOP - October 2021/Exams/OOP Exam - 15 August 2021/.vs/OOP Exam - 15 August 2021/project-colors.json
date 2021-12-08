@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47353a66-0665-47ff-8078-7b7cde16e7e4": {
+      "ProjectGuid": "47353a66-0665-47ff-8078-7b7cde16e7e4",
+      "DisplayName": "CarRacing",
+      "ColorIndex": 0
+    },
+    "e41b4b02-ac84-478b-8cfc-fadaa3380065": {
+      "ProjectGuid": "e41b4b02-ac84-478b-8cfc-fadaa3380065",
+      "DisplayName": "Robots",
+      "ColorIndex": 1
+    },
+    "1ff2e93d-bdb9-436a-b4a6-f3744291afd1": {
+      "ProjectGuid": "1ff2e93d-bdb9-436a-b4a6-f3744291afd1",
+      "DisplayName": "Robots.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
