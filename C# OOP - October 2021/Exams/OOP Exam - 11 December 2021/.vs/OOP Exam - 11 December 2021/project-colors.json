@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e763313-29f0-4936-8d04-854adf4d36a8": {
+      "ProjectGuid": "2e763313-29f0-4936-8d04-854adf4d36a8",
+      "DisplayName": "OOP Exam - 11 December 2021",
+      "ColorIndex": 0
+    },
+    "a2842585-5873-41e8-ab37-52c7c8643125": {
+      "ProjectGuid": "a2842585-5873-41e8-ab37-52c7c8643125",
+      "DisplayName": "Gyms.Tests",
+      "ColorIndex": 1
+    },
+    "27afd12c-4940-4dd6-818d-402de91bf319": {
+      "ProjectGuid": "27afd12c-4940-4dd6-818d-402de91bf319",
+      "DisplayName": "Gyms",
+      "ColorIndex": 2
+    },
+    "d77632ea-0c00-48ba-acfd-1291e864cdcf": {
+      "ProjectGuid": "d77632ea-0c00-48ba-acfd-1291e864cdcf",
+      "DisplayName": "Gym",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

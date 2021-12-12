@@ -1,0 +1,14 @@
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 22 August 2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache

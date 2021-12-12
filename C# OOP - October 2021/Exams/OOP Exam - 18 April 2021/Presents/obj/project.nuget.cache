@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OiXUh6SHdgQWC0Th13oEsBWf5kOQ1KTDQNC6jHill0kMCm5j7xkkKxGJoLIVRyK3b6+IlxESrZyZOEpWBgXglQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\C# OOP - October 2021\\Exams\\OOP Exam - 18 April 2021\\Presents\\Presents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\venit\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

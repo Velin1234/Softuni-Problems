@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b61d9f48-04b0-4dcd-a036-006525fec13d": {
+      "ProjectGuid": "b61d9f48-04b0-4dcd-a036-006525fec13d",
+      "DisplayName": "OOP Exam - 18 April 2021",
+      "ColorIndex": 0
+    },
+    "baf1c03b-40be-43ed-a06a-078240f39483": {
+      "ProjectGuid": "baf1c03b-40be-43ed-a06a-078240f39483",
+      "DisplayName": "Presents.Tests",
+      "ColorIndex": 1
+    },
+    "f26a788f-db41-4b4d-b588-5948873b4535": {
+      "ProjectGuid": "f26a788f-db41-4b4d-b588-5948873b4535",
+      "DisplayName": "Presents",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

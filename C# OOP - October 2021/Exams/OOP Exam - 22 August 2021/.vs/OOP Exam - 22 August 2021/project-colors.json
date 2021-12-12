@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47137832-9100-463a-be3b-c4e3ba1434a1": {
+      "ProjectGuid": "47137832-9100-463a-be3b-c4e3ba1434a1",
+      "DisplayName": "OOP Exam - 22 August 2021",
+      "ColorIndex": 0
+    },
+    "20ce6ad7-c1d6-4bb0-a30a-0fd5285462cc": {
+      "ProjectGuid": "20ce6ad7-c1d6-4bb0-a30a-0fd5285462cc",
+      "DisplayName": "SpaceStation",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9dc30545-80ca-4d3c-9009-33b5f2e3d758": {
+      "ProjectGuid": "9dc30545-80ca-4d3c-9009-33b5f2e3d758",
+      "DisplayName": "HeroRepository.Tests",
+      "ColorIndex": 2
+    },
+    "e179f784-f56f-4892-a970-167221d8de90": {
+      "ProjectGuid": "e179f784-f56f-4892-a970-167221d8de90",
+      "DisplayName": "HeroRepository",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

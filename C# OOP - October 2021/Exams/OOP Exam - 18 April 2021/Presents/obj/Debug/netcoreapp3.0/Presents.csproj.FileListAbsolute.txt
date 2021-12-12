@@ -1,0 +1,13 @@
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+D:\Repos\C# OOP - October 2021\Exams\OOP Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
