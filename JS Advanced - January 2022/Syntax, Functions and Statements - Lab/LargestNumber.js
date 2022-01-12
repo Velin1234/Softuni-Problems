@@ -1,4 +1,3 @@
-<script>
 function LargestNumber(num1,num2,num3) {
     var result;
     if(num1 > num2 && num1 > num3)
@@ -17,4 +16,3 @@ function LargestNumber(num1,num2,num3) {
 }
 LargestNumber(5, -3, 16);
 LargestNumber(-3, -5, -22.5);
-</script>

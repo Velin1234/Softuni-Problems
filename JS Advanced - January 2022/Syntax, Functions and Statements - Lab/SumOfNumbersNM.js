@@ -1,4 +1,3 @@
-<script>
     function SumOfNumbersNM(n,m) {
         var num1 = Number(n);
         var num2 = Number(m);
@@ -9,4 +8,3 @@
         console.log(result);
     }
     SumOfNumbersNM(1,5);
-</script>

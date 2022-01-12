@@ -1,4 +1,3 @@
-<script>
     function MathOperations(num1,num2,operator) {
         var result;
         switch(operator){
@@ -29,4 +28,3 @@
         console.log(result);
     }
     MathOperations(5,2,'**')
-</script>

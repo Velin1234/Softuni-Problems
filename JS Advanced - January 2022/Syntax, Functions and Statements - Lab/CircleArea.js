@@ -1,4 +1,3 @@
-<script>
     function CircleArea(number) {
         if(typeof(number)!= "number")
         {
@@ -12,4 +11,3 @@
     }
     CircleArea(5);
     CircleArea("name");
-</script>

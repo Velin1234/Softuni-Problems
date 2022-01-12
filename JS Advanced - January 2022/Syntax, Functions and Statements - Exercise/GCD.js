@@ -1,4 +1,3 @@
-<script>
     function GCD(num1,num2){
         let minNum = Math.min(num1, num2);
         commonDivisor = 1;
@@ -12,4 +11,3 @@
     }
     GCD(15,5);
     GCD(2154,458);
-</script>

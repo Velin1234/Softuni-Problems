@@ -1,4 +1,3 @@
-<script>
     function SameNumbers(num){
         var same = true;
         var sumOfDigits = 0;
@@ -17,5 +16,3 @@
     }
     SameNumbers(2222222);
     SameNumbers(1234);
-
-</script>

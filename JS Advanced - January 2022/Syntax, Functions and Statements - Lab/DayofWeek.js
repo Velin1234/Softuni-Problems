@@ -1,4 +1,3 @@
-<script>
     function DayOfWeek(day) {
         switch(day){
             case 'Monday':
@@ -28,4 +27,3 @@
         }
     }
     DayOfWeek('Wednesday');
-</script>

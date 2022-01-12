@@ -1,4 +1,3 @@
-<script>
     function AggregateElements(array) {
         let sum = 0;
         let sumConcat = "";
@@ -15,4 +14,3 @@
             console.log(sumConcat);    
     }
     AggregateElements();
-</script>

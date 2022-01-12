@@ -1,4 +1,3 @@
-<script>
     function SquareOfStars(size) {
         var result = "";
         for (let sizeRow = 0; sizeRow < size; sizeRow++) {
@@ -10,4 +9,3 @@
         console.log(result);
     }
     SquareOfStars(5);
-</script>
