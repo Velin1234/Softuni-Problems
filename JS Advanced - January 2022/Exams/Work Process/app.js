@@ -69,7 +69,7 @@ function solve() {
             birthBox.value = firstNameData.textContent;
             positionBox.value = firstNameData.textContent;
             salaryBox.value = firstNameData.textContent;
-            budgetSum.textContent = Math.abs((Number(budgetSum.textContent) - Number(salaryBox.value)).toFixed(2));
+            budgetSum.textContent = Math.abs((Number(budgetSum.textContent) - Number(salaryBox.value))).toFixed(2);
             rowItem.remove();
         });
 
